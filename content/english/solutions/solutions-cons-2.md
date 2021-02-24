@@ -6,4 +6,4 @@ weight: 2
 focus: consulting
 
 ---
-Weet jij niet zeker of je de juiste keuze hebt gemaakt? Wij helpen je met onze experts graag met een second opinion. 
+Not sure if you have made the right choice? Our experts will be happy to give you a second opinion. 
