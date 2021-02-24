@@ -15,5 +15,4 @@ weight: 1
 focus: "workshop"
 ---
 
-Van de eerste stappen in Python tot het maken van je eerste deep learning projecten. Met onze cursus nemen we je
-medewerkers mee in de nieuwe en spannende wereld van Data Science en Machine Learning.
+From the first steps in Python to creating your first deep learning projects. With our course, we take your employees into the new and exciting world of Data Science and Machine Learning. 
