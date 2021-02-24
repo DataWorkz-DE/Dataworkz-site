@@ -6,5 +6,5 @@ bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/solutions/hero.jpg"
 # meta description
-description : "Data is voor bedrijven de belangrijkste onderscheidende factor geworden. Hiervoor heb je experts nodig."
+description : "Data has become THE most differentiating factor for companies. This is where you need experts!"
 ---
