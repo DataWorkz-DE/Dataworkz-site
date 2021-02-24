@@ -5,8 +5,8 @@ slider:
   slider_item:
   - title: Custom made data solutions
     content: Data has become THE most differentiating factor for companies. To get the most out of your data, 
-    you need experts who let you use this data in the best possible way. We can provide you with dat engineers
-    who can make your data accessible and have the data scientists who can get the right information out of your data! 
+      you need experts who let you use this data in the best possible way. We can provide you with dat engineers
+      who can make your data accessible and have the data scientists who can get the right information out of your data! 
     animation_in: ''
     animation_out: ''
     button:
@@ -50,10 +50,10 @@ about:
   title: About Dataworkz
   image: images/about/about-us.jpg
   content: It all started in the winter of 2016 with an innocent phone call and dinner with the current
-  shareholders. The idea was quickly born to create a cool technical data club. Data is becoming more 
-  and more important in daily (working) life. From idea to start was a pretty hectic period but for us
-  it was always important to put our employees at the centre of the organisation. Connecting with your 
-  people and doing cool things for our customers, that is the core of Dataworkz. 
+    shareholders. The idea was quickly born to create a cool technical data club. Data is becoming more 
+    and more important in daily (working) life. From idea to start was a pretty hectic period but for us
+    it was always important to put our employees at the centre of the organisation. Connecting with your 
+    people and doing cool things for our customers, that is the core of Dataworkz. 
   button:
     enable: true
     label: Want to see more of Dataworkz?
@@ -87,8 +87,6 @@ success_story:
     Professionals who have strong communication skills, who want to work in agile projects projects 
     with leading customers, who want to be part of a fun team of experts, who  enjoy sharing knowledge 
     and want to be rewarded for their value.
-
-Translated with www.DeepL.com/Translator (free version)
   video_link: https://www.youtube.com/watch?v=IdV4n4hgIRY
   button:
     enable: true
