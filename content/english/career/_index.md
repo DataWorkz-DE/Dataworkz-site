@@ -1,35 +1,38 @@
 ---
-title: Werken bij Dataworkz
+title: Working at Dataworkz
 bg_image: images/backgrounds/page-title.jpg
 image: images/career/hero.jpg
 description: ''
 
 ---
-## WIJ ZOEKEN
+## DATAWORKERZ
 
-Gedreven Data Engineers  die het verschil kunnen maken bij onze klanten. Bij Dataworkz werken Data Engineers en Data Scientists die het leuk vinden om in een jong bedrijf kansen te pakken en samen met  _vakgenoten_  te werken aan prestaties van formaat. Wij zijn Professionals die  communicatief sterk  zijn, in agile projecten willen werken bij toonaangevende klanten, deel willen uitmaken van een leuk team van experts, graag  _kennis delen_  en beloond willen worden op hun waarde.
+We are a trusted partner for Data Engineering and Data Science for well-known companies who are leaders in their respective industries. We are passionate professionals who want to help companies with their innovating projects.  
+At Dataworkz, you will work with driven data engineers who wants to make a difference with the projects they are working on. We are strong communicators and we like to share our knowledge; but above all, we take work hard, play hard very seriously!  
 
-Ben jij dat ook?
+Sounds interesting? 
 
-## WIJ VRAGEN
+## Is this you? 
 
-In de rol van _Data Engineer_  ben je verantwoordelijk voor het opzetten en onderhouden van data landschappen en het ophalen, verwerken, bewerken en beschikbaar maken van de inhoud van deze landschappen. Je werkt samen met veel stakeholders om zo tot een schaalbare, betrouwbare en flexibele oplossing te komen waar makkelijk mee gewerkt kan worden. Als  _Data Engineer_  heb jij het volgende:
+Working as a Data Engineer, you will be responsible for setting up and maintaining data landscapes and to make the contents of these landscapes available. You will be working with shareholders to create scalable, reliable and flexible solutions that are easy to work with. We certainly won’t expect you the bring ALL parts of the following skill-set. Your future fellow engineers all have their strengths. That’s what makes Dataworkz a great place to work and learn. It would however be great if you bring some of the following skills:  
 
-* Uitstekende programmerskills in Python, Golang, Java, Scala (4+ jaar). Jij weet alles over de zin en onzin van OO design patterns en functioneel programmeren.
-* Grote ervaring met het realiseren van data en machine learning pipelines
-* Ervaring met het ontwikkelen van schaalbaren en performanten oplossingen in de cloud (OpenShift, Azure, AWS, GCP, Kubernetes)
-* Ervaring in ontwikkelen en configuratie van CI/CD oplossingen on premise en in de cloud (Jenkins, Gitlab, TFS, Azure DevOps, MLFlow)
-* Kennis van big dataprocessing (Spark,  Kafka, Flink, AWS Kinesis, Azure Event Hub) en flow development (Airflow, Nifi)
-* Kennis van big data storage (zoals HDFS, Hive, HBASE, Cassandra, MongoDB, Neo4J, FlockDB) en bijhorende technieken (SQL, Graph, Document
-* Kennis van search engines (ElasticSearch)
-* Toepassen van Machine Learning en technieken
-* Ervaring met moderne Datawarehouse oplossingen (Snowflake, AWS Redshift)
+* Solid programming skills like Python, Golang, Java or Scala. You know your way around functional programming and OO design patterns.  
+* Creation data and machine learning pipelines.
+* Developing scalable and high-performance cloud solutions like OpenShift, Azure, AWS, GCP, or Kubernetes.
+* Configuring and developing on premise and cloud-based CI/CD solution (Jenkins, Gitlab, TFS, Azure DevOps, MLFlow) 
+* Knowledge of big data processing like Spark, Kafka, Flink, AWS Kinesis, Azure Event Hub and flow development (Airflow, Nifi) 
+* Search engine experience (ElasticSearch) 
+* Knowledge of big data storage (like HDFS, Hive, HBASE, Cassandra, MongoDB, Neo4J, FlockDB) and the appropriate techniques (SQL, Graph, Document) 
+* Familiarity with Machine Learning techniques 
+* Knowledge of modern Datawarehouse solutions (Snowflake, AWS Redshift) 
+*
 
 ## WIJ BIEDEN
 
-* Innoverende projecten bij toonaangevende opdrachtgevers
-* Een uitdagende baan in een jong groeiend bedrijf
-* Een omgeving waar je het echt samen met elkaar het bedrijf maakt
-* Een team van vakgenoten, waarbij samenwerken, kwaliteit en plezier centraal staat
-* Een inspirerende werkomgeving waarin jouw eigen inbreng gewaardeerd en beloond wordt  (en eigenlijk gewoon een must is)
-* Zeer aantrekkelijk salaris, riante bonusregeling gecombineerd met een uitgebreid pakket aan secundaire voorwaarden.
+* A challenging career with a young growing company  
+* Innovating projects where you can show off your skills and learn new ones
+* Personal and technical growth through internal and external training/certificates 
+* An inspiring culture where own initiative is valued and rewarded (and kind of is requested) 
+* An extensive team of international data rock stars where it is all about collaboration, quality and having fun
+* Team events, both technical and just for fun. We love to bring the families!  
+* A great salary, significant bonus agreement (we all benefit) and an extensive
