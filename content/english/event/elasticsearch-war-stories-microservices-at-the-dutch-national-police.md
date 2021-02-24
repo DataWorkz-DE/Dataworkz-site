@@ -19,7 +19,7 @@ name = "Arno Broekhof"
 +++
 First DataWorkz meeting with 2 talks
 
-Arno Broekhof wil share Elasticsearch war stories and and Bert Jan Schrijver will talk about how the Dutch National Police is building and running microservices.
+Arno Broekhof wil share Elasticsearch war stories and Bert Jan Schrijver will talk about how the Dutch National Police is building and running microservices.
 
 The meetup will be held in the JPoint office in Utrecht.
 
