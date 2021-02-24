@@ -10,4 +10,4 @@ duration: ''
 apply_url: "/contact"
 
 ---
-Vele datastromen leiden naar Rome. Maar wat past bij jou? Wij bepalen samen de juiste Data architectuur voor jouw data stromen en maken een roadmap, waarmee je direct kan vertrekken
+Many data streams lead to Rome. But which one suits you best? Together, we determine the right data architecture for your data flows and draw up a roadmap, with which you can start working immediately. 
