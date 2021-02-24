@@ -1,5 +1,5 @@
 ---
-title: Word een Microsoft Certified Azure expert
+title: Become a Microsoft Certified Azure expert
 date: 2019-07-06T15:27:17.000+06:00
 bg_image: images/backgrounds/page-title.jpg
 description: ''
@@ -10,7 +10,7 @@ duration: ''
 apply_url: "/contact"
 
 ---
-Onze Microsoft gecertificeerde trainers nemen je mee in de Microsoft wereld van AI en ML. Van Azure fundamentals tot AI solutions – met onze 9 trainingen ben je klaar voor elke belangrijk certificatie op je weg naar een gecertificeerd **Azure Data Scientist Associate,** **Azure Data Engineer Associate**, **Azure AI Engineer Associate** of **Azure Architect Expert**.
+Our Microsoft certified trainers take you into the Microsoft world of AI and ML. From Azure fundamentals to AI solutions - with our 9 courses, you'll be ready for any important certification on your way to becoming a certified **Azure Data Scientist Associate,** **Azure Data Engineer Associate**, **Azure AI Engineer Associate** of **Azure Architect Expert**.
 
 ### **Microsoft Azure Fundamentals: 1 or 2 day training**
 
