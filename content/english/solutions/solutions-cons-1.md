@@ -13,5 +13,4 @@ weight: 1
 focus: "consulting"
 ---
 
-Of het nu gaat om lange projecten of korte opdrachten. Met elke consultant krijg jij de kennis van heel Dataworkz tot
-jouw beschikking om state of the art data platformen of machine learning applicaties te ontwikkelen.
+Do you need short term support on your data projects? Looking to add knowledge or looking to temporary adding someone to your team? Whether it’s short- or long-term projects, with every single consultant you will be able to access the knowledge of all Dataworkz engineers to develop state of the art data platforms or machine learning applications.  
