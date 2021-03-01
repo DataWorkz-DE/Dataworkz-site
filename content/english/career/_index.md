@@ -35,4 +35,4 @@ Working as a Data Engineer, you will be responsible for setting up and maintaini
 * An inspiring culture where own initiative is valued and rewarded (and kind of is requested) 
 * An extensive team of international data rock stars where it is all about collaboration, quality and having fun
 * Team events, both technical and just for fun. We love to bring the families!  
-* A great salary, significant bonus agreement (we all benefit) and an extensive
+* A great salary, significant bonus agreement (we're in this together) and great benefits
