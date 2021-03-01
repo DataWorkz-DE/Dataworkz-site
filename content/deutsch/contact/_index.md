@@ -1,5 +1,5 @@
 ---
-title: "Neem contact met ons op!"
+title: "Nimm Kontakt mit uns auf!"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/contact.jpg"
@@ -7,4 +7,4 @@ bg_image: "images/backgrounds/contact.jpg"
 description : ""
 ---
 
-Stuur ons een bericht of bezoek ons op ons adres.
+Schicke uns eine Nachricht oder besuche uns unter unserer Adresse.
