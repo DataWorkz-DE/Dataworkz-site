@@ -1,8 +1,9 @@
 ---
-title: "Laatste blogs"
+title: "Neueste Blogs"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Hier vind je onze laatste artikelen die door ons zijn geschreven. Soms in samenwerking met de bedrijven waar we zijn ingezet, soms met concullega's, anders gewoon doon onszelf. "
+description : "Hier findest du unsere neuesten, von uns geschriebenen Artikel. Manchmal in Zusammenarbeit mit den Firmen, bei denen wir im Projekt sind, manchmal mit Fachkollegen, oder einfach unter uns Dataworkerz. 
+ "
 ---
