@@ -1,35 +1,38 @@
 ---
-title: Werken bij Dataworkz
+title: Karriere
 bg_image: images/backgrounds/page-title.jpg
 image: images/career/hero.jpg
 description: ''
 
 ---
-## WIJ ZOEKEN
+## Dataworkz
 
-Gedreven Data Engineers  die het verschil kunnen maken bij onze klanten. Bij Dataworkz werken Data Engineers en Data Scientists die het leuk vinden om in een jong bedrijf kansen te pakken en samen met  _vakgenoten_  te werken aan prestaties van formaat. Wij zijn Professionals die  communicatief sterk  zijn, in agile projecten willen werken bij toonaangevende klanten, deel willen uitmaken van een leuk team van experts, graag  _kennis delen_  en beloond willen worden op hun waarde.
+Wir sind ein zuverlässiger Partner für Data Engineering und Data Science für namhafte Unternehmen, die in ihren jeweiligen Branchen führend sind. Wir sind leidenschaftliche Profis, die Unternehmen bei ihren innovativen Projekten helfen wollen. Bei Dataworkz arbeitest du mit passionierten Dateningenieuren zusammen, die mit den Projekten, an denen sie arbeiten, einen Unterschied machen wollen. Wir sind kommunikationsstark und teilen gerne unser Wissen; aber vor allem nehmen wir **Work Hard, Play Hard** sehr ernst!
 
-Ben jij dat ook?
+Klingt interessant?
 
-## WIJ VRAGEN
 
-In de rol van _Data Engineer_  ben je verantwoordelijk voor het opzetten en onderhouden van data landschappen en het ophalen, verwerken, bewerken en beschikbaar maken van de inhoud van deze landschappen. Je werkt samen met veel stakeholders om zo tot een schaalbare, betrouwbare en flexibele oplossing te komen waar makkelijk mee gewerkt kan worden. Als  _Data Engineer_  heb jij het volgende:
+## Wir suchen
 
-* Uitstekende programmerskills in Python, Golang, Java, Scala (4+ jaar). Jij weet alles over de zin en onzin van OO design patterns en functioneel programmeren.
-* Grote ervaring met het realiseren van data en machine learning pipelines
-* Ervaring met het ontwikkelen van schaalbaren en performanten oplossingen in de cloud (OpenShift, Azure, AWS, GCP, Kubernetes)
-* Ervaring in ontwikkelen en configuratie van CI/CD oplossingen on premise en in de cloud (Jenkins, Gitlab, TFS, Azure DevOps, MLFlow)
-* Kennis van big dataprocessing (Spark,  Kafka, Flink, AWS Kinesis, Azure Event Hub) en flow development (Airflow, Nifi)
-* Kennis van big data storage (zoals HDFS, Hive, HBASE, Cassandra, MongoDB, Neo4J, FlockDB) en bijhorende technieken (SQL, Graph, Document
-* Kennis van search engines (ElasticSearch)
-* Toepassen van Machine Learning en technieken
-* Ervaring met moderne Datawarehouse oplossingen (Snowflake, AWS Redshift)
+Als Data Engineer bist du für den Aufbau und die Pflege von Datenlandschaften verantwortlich und stellen die Inhalte dieser Landschaften zur Verfügung. Du arbeitest mit Shareholdern zusammen, um skalierbare, zuverlässige und flexible Lösungen zu erstellen, die einfach zu bedienen sind. Wir erwarten sicherlich nicht, dass du **alle** Teile des folgenden Skillsets mitbringen. Deine zukünftigen Kolleginnen und Kollegen haben alle ihre Stärken. Das ist es, was Dataworkz zu einem großartigen Umfeld zum Arbeiten und Lernen macht. Es wäre natürlich großartig, wenn du einige der folgenden Fähigkeiten mitbringen würdest:
 
-## WIJ BIEDEN
 
-* Innoverende projecten bij toonaangevende opdrachtgevers
-* Een uitdagende baan in een jong groeiend bedrijf
-* Een omgeving waar je het echt samen met elkaar het bedrijf maakt
-* Een team van vakgenoten, waarbij samenwerken, kwaliteit en plezier centraal staat
-* Een inspirerende werkomgeving waarin jouw eigen inbreng gewaardeerd en beloond wordt  (en eigenlijk gewoon een must is)
-* Zeer aantrekkelijk salaris, riante bonusregeling gecombineerd met een uitgebreid pakket aan secundaire voorwaarden.
+* Solide Programmierkenntnisse wie Python, Golang, Java oder Scala. Du kennst dich mit funktionaler Programmierung und OO Design Patterns aus.
+* Erstellung von Daten und Pipelines für maschinelles Lernen.
+* Entwicklung von skalierbaren und leistungsstarken Cloud-Lösungen wie OpenShift, Azure, AWS, GCP oder Kubernetes.
+* Konfiguration und Entwicklung von On Premise- und Cloud-basierten CI/CD-Lösungen (Jenkins, Gitlab, TFS, Azure DevOps, MLFlow)
+* Kenntnisse in Big-Data-Verarbeitung wie Spark, Kafka, Flink, AWS Kinesis, Azure Event Hub und Flow-Entwicklung (Airflow, Nifi)
+* Erfahrung mit Suchmaschinen (ElasticSearch)
+* Kenntnisse über Big-Data-Speicher (wie HDFS, Hive, HBASE, Cassandra, MongoDB, Neo4J, FlockDB) und die entsprechenden Techniken (SQL, Graph, Document)
+* Vertrautheit mit Techniken des maschinellen Lernens
+* Kenntnisse über moderne Datawarehouse-Lösungen (Snowflake, AWS Redshift)
+
+## Wir bieten
+
+* Eine herausfordernde Karriere in einem jungen, wachsenden Unternehmen
+* Innovative Projekte, bei denen du deine Fähigkeiten zeigen und neue erlernen kannst
+* Persönliche und fachliche Weiterentwicklung durch interne und externe Schulungen/Zertifikate
+* Eine inspirierende Kultur, in der Eigeninitiative geschätzt und belohnt wird (und auch irgendwie gefordert ist)
+* Ein umfangreiches Team von internationalen Daten-Rockstars, in dem es um Zusammenarbeit, Qualität und Spaß geht
+* Team-Events, sowohl technisch als auch nur zum Spaß. Wir lieben es, die Familien mitzubringen!
+* Ein attraktives Gehalt, eine signifikante Bonusregelung (es dreht sich alles um das Team) und tolle Zusatzleistungen
