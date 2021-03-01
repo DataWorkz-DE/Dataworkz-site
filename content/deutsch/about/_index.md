@@ -1,5 +1,5 @@
 ---
-title: Over ons
+title: Über uns
 bg_image: images/backgrounds/page-title.jpg
 image: images/about/about-us.jpg
 description: ''
@@ -7,4 +7,4 @@ description: ''
 ---
 ## Timeline Dataworkz
 
-Het begon allemaal in de winter van 2016 met een onschuldig telefoontje en etentje met de huidige aandeelhouders. Het idee was snel geboren om een gave technische data club neer te zetten. Data wordt steeds belangrijker in het dagelijkse (werkend) leven. Van idee naar start was een mooie hectische periode maar voor ons was het altijd belangrijk om de medewerkers centraal te stellen in de organisatie. Binding met je mensen en gave dingen doen bij klanten dat is de core van Dataworkz. Benieuwd hoe we zijn uitgekomen waar we nu staan?
+Alles begann im Winter 2016 mit einem unschuldigen Telefonat und einem Abendessen mit den derzeitigen Gesellschaftern. Schnell war die Idee geboren, einen coolen technischen Datenklub zu gründen. Daten werden im täglichen (Arbeits-)Leben immer wichtiger. Von der Idee bis zum Start war es eine ziemlich hektische Zeit, aber für uns war es immer wichtig, die Mitarbeiter in den Mittelpunkt des Unternehmens zu stellen. Sich mit seinen Leuten zu verbinden und coole Dinge für Kunden zu tun, das ist der Kern von Dataworkz.
