@@ -26,7 +26,7 @@ name = "Insights"
 weight = 1
 [[menu.company]]
 URL = "about"
-name = "Over"
+name = "About"
 weight = 3
 [[menu.company]]
 URL = "contact"
