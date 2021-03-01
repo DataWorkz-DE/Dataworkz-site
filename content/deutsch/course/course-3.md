@@ -1,5 +1,5 @@
 ---
-title: Word een Microsoft Certified Azure expert
+title: Werde ein Microsoft Certified Azure-Experte
 date: 2019-07-06T15:27:17.000+06:00
 bg_image: images/backgrounds/page-title.jpg
 description: ''
@@ -10,7 +10,7 @@ duration: ''
 apply_url: "/contact"
 
 ---
-Onze Microsoft gecertificeerde trainers nemen je mee in de Microsoft wereld van AI en ML. Van Azure fundamentals tot AI solutions – met onze 9 trainingen ben je klaar voor elke belangrijk certificatie op je weg naar een gecertificeerd **Azure Data Scientist Associate,** **Azure Data Engineer Associate**, **Azure AI Engineer Associate** of **Azure Architect Expert**.
+Unsere Microsoft zertifizierten Trainer nehmen dich mit in die Microsoft Welt der KI und ML. Von Azure-Grundlagen bis hin zu KI-Lösungen - mit unseren 9 Kursen bist du bereit für jede wichtige Zertifizierung auf deinem Weg zum zertifizierten **Azure Data Scientist Associate,** **Azure Data Engineer Associate**, **Azure AI Engineer Associate** of **Azure Architect Expert**.
 
 ### **Microsoft Azure Fundamentals: 1 or 2 day training**
 
@@ -49,10 +49,10 @@ This course is an opportunity to gain knowledge of common ML and AI workloads an
 
 Students gain knowledge of data science and machine learning and how to implement and run machine learning workloads on Azure; in particular, using Azure Machine Learning Service. This entails planning and creating a suitable working environment for data science workloads on Azure, running data experiments and training predictive models, managing and optimizing models, and deploying machine learning models into production.
 
-* Inleiding tot Azure Machine Learning
-* "No-code" Machine Learning met Designer
-* Experimenten en trainingsmodellen uitvoeren
-* Werken met gegevens
+* Introduction to Azure Machine Learning
+* "No-code" Machine Learning with Designer
+* Conducting experiments and training models
+* Working with data
 * Compute Contexts
 * Orchestrating Operations with Pipelines
 * Deploying and Consuming Models
