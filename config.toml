@@ -86,7 +86,7 @@ name = "Team"
 parent = "about"
 [[menu.main]]
 URL = "career"
-name = "Werken bij"
+name = "Career"
 parent = "about"
 [[menu.main]]
 URL = "contact"
