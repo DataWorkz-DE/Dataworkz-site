@@ -54,11 +54,11 @@ interest: ["science"]
 type: "team"
 ---
 
-* **Leesboek**: Ik lees graag, liefst op vakantie, thrillers.
-* **Fietshelm**: Wielrennen is een geliefde bezigheid.
-* **Speciaalbier**: Trippel, Blond of IPA.
-* **Bidon**: Zie fietshelm.
-* **Kookboek**: Ik Houd van nieuwe, lekkere dingen eten, koken hoort daarbij.
-* **Reisgids**: Het liefst elke schoolvakantie een nieuwe bestemming.
-* **Skischoen**: Favo vakantie vanaf dat ik kind ben.
-* **Volleybalschoen**: Hobby en sport, ook voor de gezelligheid :).
+* **Book**: I like to read thrillers, preferably on holiday.
+* **Cycling helmet**: Cycling is one of my favourite pastimes.
+* **Special beers**: Tripple, Blond or IPA.
+* **Water Bottle**: The cycling thing again.. 
+* **Cookbook**: I like to eat new, tasty things, cooking is part of the proces.
+* **Travelguide**: Preferably a new destination every school holiday.
+* **Ski boot**: Favourite holiday since I was a child.
+* **Volleyball shoe**: Hobby and sport, also just to hang out. 
