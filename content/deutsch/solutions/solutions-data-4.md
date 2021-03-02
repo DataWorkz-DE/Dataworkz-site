@@ -1,11 +1,11 @@
 ---
-title: Spot on - Reduceer Cloud Data Processing kosten
+title: Spot on - Cloud Data Processing cost reduction
 image: images/solutions/hero.jpg
 icon: ti-credit-card
 weight: 3
 focus: solutions
 
 ---
-Complexe data berekeningen in de cloud zijn duur. Wij weten hoe je door slimme inzet met goedkope tijdelijke resources in de cloud (zogenoemde Spots) hierop kan besparen.
+Komplexe Datenberechnungen in der Cloud sind teuer und basieren auf Nachberechnungen. Wir können dir zeigen, wie du preiswerte temporäre Ressourcen (sogenannte Spots) intelligent nutzen kannst, um Kosten zu sparen.
 
-Complexe data berekeningen in de cloud zijn duur en worden nu vaak op nacalculatie berekend. Wij weten hoe je door slimme inzet van goedkope tijdelijke resources (de zogenoemde Spots) hier significant op kunt besparen. Per machine-uur kunnen de kosten tot 90% lager zijn. Dit vertaalt zich in een significante besparing in €/output voor data intensieve workloads in de cloud voor jouw organisatie. Onze experts helpen de kosten van cloud data processing in kaart te brengen, te reduceren en onder controle te krijgen.
+Die Kosten pro Maschinenstunde können auf bis zu 90 % reduziert werden. Dies führt zu einer signifikanten Reduzierung des €/Outputs für schwere Daten-Workloads in der Cloud. Unsere Experten helfen Ihnen, deine Cloud-Datenverarbeitungskosten auszuarbeiten, diese zu reduzieren und überschaubar zu machen.
