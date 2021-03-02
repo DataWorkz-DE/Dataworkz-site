@@ -11,4 +11,4 @@ image: "/images/timeline/Slide7.jpeg"
 
 ---
 
-We zijn weer in de Ardennen met de hele club en alle partners erbij. In een luxe huisje is het genieten van de swimming pool het warme BBQ weer en de Cocktail workshop van onze Tjian. Overdag sportief met het mountain bike de heuvels op of lekker genieten ondergronds van de grotten van Han. Maar vooral heerlijk met elkaar kletsen en vieren.
+We are back in the Ardennes with the whole club and all the partners. In a luxurious cottage we enjoy the swimming pool, the warm BBQ weather and the cocktail workshop of our Tjian. During the day being sporty on the mountain bike in the hills or enjoy the underground of the caves of Han. But most of all, we love to chat and have fun with each other.
