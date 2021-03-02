@@ -10,4 +10,4 @@ date: "2017-05-01T00:00:00Z"
 
 ---
 
-Startupfeeling bij de geboorte van Dataworkz op onze Kickoff BBQ. Door veel met elkaar te doen, voelt het snel vertrouwd ook voor onze partners en families en durft men elkaar uit te dagen met inspirerende vakinhoudelijke ideeën – of een tof waterpistolen gevecht.
+Startup-Feeling zum Start von Dataworkz bei unserem Kickoff BBQ. Durch das gemeinsame Arbeiten fühlt es sich auch für unsere Partner und Familien schnell vertraut an und sie trauen sich, sich gegenseitig mit inspirierenden Fachideen  oder zu einer coolen Wasserpistolenschlacht herauszufordern.
