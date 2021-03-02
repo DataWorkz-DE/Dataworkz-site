@@ -11,4 +11,4 @@ image: "/images/timeline/Slide14.jpeg"
 
 ---
 
-Het is pas februari maar we hebben al 2 meetups georganiseerd. Jeff en Jurriaan geven een workshop Timeseries met Facebook Prophet – voor het eerst in ons nieuw kantoor. En samen met Dataiku – een van onze partners – presenteren wij data science op productie best practices.
+Es ist erst Februar, aber wir haben bereits 2 Meetups organisiert. Jeff und Jurriaan geben einen Workshop Timeseries mit Facebook Prophet - zum ersten Mal in unserem neuen Büro. Und zusammen mit Dataiku - einem unserer Partner - präsentieren wir Data Science on Production Best Practices.
