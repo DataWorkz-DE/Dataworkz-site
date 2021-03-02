@@ -1,6 +1,6 @@
 ---
 
-title: "Skivakantie in Saalbach"
+title: "Ski event in Saalbach"
 draft: false
 
 type: "timeline"
@@ -11,4 +11,4 @@ image: "/images/timeline/Slide5.jpeg"
 
 ---
 
-Ook dit jaar weer samen met onze zusterbedrijven overdag met skies de berg op, en s’avonds met Tony de Almhütte op aprés skien.
+This year, together with our sister companies, we will be skiing up the mountain during the day and aprés skiing in the evening with Tony in the Almhütte.
