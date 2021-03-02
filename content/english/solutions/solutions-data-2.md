@@ -6,7 +6,7 @@ icon: ti-trash
 focus: solutions
 
 ---
-**Data pollution is expensive!**. Most organisations state, that an estimated 25% of their data in inaccurate, a factor that strongly influences the business result.  This is best explained in the  **1-10-100 rule**:  If it costs you 1 euro to prevent a data mistake, it will cost you 10 euro to fix it afterwards- and 100 euro is a problem is created by this mistake.
+**Data pollution is expensive!** Most organisations state, that an estimated 25% of their data in inaccurate, a factor that strongly influences the business result.  This is best explained in the  **1-10-100 rule**:  If it costs you 1 euro to prevent a data mistake, it will cost you 10 euro to fix it afterwards- and 100 euro is a problem is created by this mistake.
 
 Our approach ensures that companies prevent data pollution at the source, the data pipeline. 
 
