@@ -1,5 +1,5 @@
 ---
-title: Kein Datenchaos mehr
+title: No more messy data!
 image: images/solutions/hero.jpg
 weight: 1
 icon: ti-trash
