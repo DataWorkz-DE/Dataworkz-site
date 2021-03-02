@@ -54,10 +54,10 @@ contact:
 type: "team"
 ---
 
-* **Motorhandschoenen**: Met mooi weer rijd ik graag een stukje op de motor. Rustig toeren door de polders of over dijkweggetjes.
-* **Whisky**: Op zijn tijd drink ik graag een lekkere whisky.
-* **Multimeter**: Regelmatig ben ik bezig met home-automation, mijn auto of motor. Dan moet je regelmatig solderen, kabels doormeten of schakelingen repareren.
-* **Gereedschap**: In en rond huis ben ik vaak aan het klussen. Ook heb ik een motor en een oude Amerikaanse auto, waarvan ik al het onderhoud en restauratie zelf doe. Daarvoor heb je dus goed gereedschap nodig.
-* **Formule 1**: SInds mijn studententijd volg ik al de Formule 1. Bijzondere sport waar ik geen kwalificatie of race van wil missen.
-* **Corvette**: Met deze handleiding en mijn twee rechter handen kan ik al het onderhoud aan mijn Corvette uitvoeren. Uiteraard rijd ik er graag in. Vooral in de zomer, met het dak eraf een toerritje maken.
-* **Hoofdtelefoon**: Onderweg luister ik graag mijn favoriete muziek, vooral rock en muziek van de bekende artiesten uit de ‘70s en ‘80s.
+* **Motorbike gloves**: When the weather is nice, I like to ride my bike. Quietly touring through the polders or on dyke roads.
+* **Whisky**: I like to drink a good whisky once in a while.
+* **Multimeter**: I regularly work on home-automation, my car or my motorbike. Then you regularly have to solder, measure cables or repair circuits.
+* **Tools**: I am often working in and around the house. I also have a motorbike and an old American car, of which I do all the maintenance and restoration myself. So you need good tools for that.
+* **Formule 1**: I have been following Formula 1 since my student days. It is a special sport and I don't want to miss a qualification or a race.
+* **Corvette**: With this manual and my two right hands I can do all the maintenance on my Corvette. Of course I like to drive it. Especially in the summer, making a tour with the top off. 
+* **Headphones**: On the road, I like to listen to my favourite music, especially rock and music by the famous artists of the '70s and '80s.
