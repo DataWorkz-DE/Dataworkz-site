@@ -54,14 +54,14 @@ contact:
 type: "team"
 ---
 
-* **Fotoboek**: Zeilen is mijn passie, dit boek geeft een historie van mijn zeilen.
-* **Camper**: Reizen, we kunnen het niet laten, dit is ons tweede huis .
-* **Slof**: Herinnering aan onze eerste reis met onze zoon. Originele Marokkaanse slof .
-* **Race lycra**: Mijn eerste officiële deelname aan een WK, Hobie 14.
-* **Koptelefoon**: Zonder muziek geen leven, ook fijn om te kunnen doorwerken en in rust te luisteren. 
-* **Get Shit done**: Werk motto.
-* **Borrel**: Lokale likeur.
-* **IT**: Eerste kennismaking met Stephan King en blijft nog altijd een van mijn favorieten. 
-* **Coach**: Mijn meiden, met een lach en een schreeuw begeleid ik hen in de volleybal sport. 
-* **Zwemvest**: Wel heel vaak aan in de vrije tijd.
+* **Photo album**: Sailing is my passion, this book gives a history of my sailing.
+* **Camper**: Travelling, we can't help it, this is our second home .
+* **Slipper**: Reminder of our first trip with our son. Original Moroccan slipper.
+* **Race lycra**: My first official participation in a World Cup, Hobie 14.
+* **Headphones**: Without music there is no life, and it is also nice to be able to continue working and listening in peace. 
+* **Get Shit done**: Working motto
+* **My poison**: Local liqueur
+* **IT**: First introduction to Stephan King and still remains one of my favourites. 
+* **Coach**: My girls, with a smile and a shout I guide them in the sport of volleyball.
+* **Lifejacket**: I wear this a lot in my pastime.
 * **MacBook**: Coding is a lifestyle.
