@@ -11,4 +11,4 @@ image: "/images/timeline/Slide6.jpeg"
 
 ---
 
-Met elkaar ongestoord overdag in de woonkamer bezig zijn met techniek. Dat noemen we Codecamp en doen we op mooie lokaties in vakantiehuisjes - deze keer met ons zustertje Skyworkz. We leren Golang, bouwen een Kubernetes cluster, doen Cloud Analytics in AWS en leren over transfer learning.
+Working on technology together, undisturbed in the living room. We call this Codecamp and we do it at beautiful locations in holiday homes - this time with our sister company Skyworkz. We learn Golang, build a Kubernetes cluster, do Cloud Analytics in AWS and learn about transfer learning.
