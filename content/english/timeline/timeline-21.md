@@ -1,9 +1,9 @@
 ---
-title: Geen kans voor Corona
+title: Not giving Corona a chance
 date: 2020-05-15T00:00:00Z
 image: "/images/screen-shot-2020-10-06-at-09-02-43.png"
 
 ---
-Thuis werken. Afstand houden, geen high-fives. Dat valt ons bestwel zwaar. Maar we halen alles uit de kast om ook op afstand samen kunnen zijn, zoals bij de thuistasting wijn proeverij! En ook de meetups gaan door bijvoorbeeld in samenwerking met het Human & Tech institute over bias testing en ethiek in AI. 
+Working from home. Keeping a distance, no high-fives. That is pretty hard for us. But we do everything in our power to be together even remotely, like the home wine tasting! And the meetups continue, for example in cooperation with the Human & Tech Institute on bias testing and ethics in AI. 
 
-We merken wel, dat we met ons ruim kantoor goed de afstand regels kunnen volgen en zo wordt het een omgedraaide detacherings wereld. In plaats van werken bij klanten, komen klanten met hun teams bij ons op bezoek - om elkaar eindelijk weer eens live te zien.
+We find that with our spacious office we can easily comply with the distance rules and so the consultancy world is turned upside down. Instead of working at the client's, clients and their teams come to us - to finally see each other live again.
