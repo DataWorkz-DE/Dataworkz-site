@@ -6,6 +6,7 @@ weight: 4
 focus: solutions
 
 ---
-Jouw model en data vanaf dag 1 in productie – continu en altijd up to date.
+Dein Modell und deine Daten in der Produktion von Tag 1 an - kontinuierlich und immer aktuell.
 
-Continous Delivery – het kort cyclisch en betrouwbaar uitrollen van nieuwe programmatuur op productie – was voor software engineering revolutionair. Wij weten hoe wij dit slimme principe ook kunnen toepassen op data en modellen. Je krijgt direct feedback en de snelst mogelijke ROI voor jouw slimme applicaties.
+Continuous Delivery - das kurzzyklische und zuverlässige Ausrollen neuer Software in einer Produktionsumgebung - hat die Softwareentwicklung revolutioniert.
+Wir können dir helfen, dieses smarte Prinzip auf deine Daten und Modelle anzuwenden. So bekommst du sofortiges Feedback und den schnellsten ROI für deine smarten Anwendungen.
