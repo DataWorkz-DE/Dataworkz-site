@@ -1,7 +1,7 @@
 ---
-title: 1e meetup
+title: First Meetup
 date: 2017-10-10T00:00:00Z
 image: "/images/timeline/Slide1.jpeg"
 
 ---
-Kennisdeling staat centraal. Zo ook bij de eerste meetup waar Arno Broekhof vertelt over Elastiscsearch warstories bij de politie. Gelijk volle bak en dozen vol pizza’s.
+Sharing knowledge is key. This was also the case at the first meetup, where Arno Broekhof talked about Elastiscsearch war stories for the police. A full house and boxes full of pizzas.
