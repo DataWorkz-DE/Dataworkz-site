@@ -1,8 +1,8 @@
 ---
-title: "Ons team"
+title: "Unser team"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Bij Dataworkz hebben we allemaal onze eigen specialismes. Kijk rond en kijk met wie jij wilt samenwerken!"
+description : "Wir haben alle unsere eigene Spezialität bei Dataworkz. Sieh dich um und schau, mit wem du gerne zusammenarbeiten würdest!"
 ---
