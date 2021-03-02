@@ -1,6 +1,6 @@
 ---
 
-title: "We hebben een nieuw kantoor"
+title: "We have a new office!"
 draft: false
 
 type: "timeline"
@@ -11,4 +11,4 @@ image: "/images/timeline/Slide13.jpeg"
 
 ---
 
-Vol trots openen we de deuren naar ons hippe pand in de Werkspoorkathedraal. Ingericht met veel plek, veel licht en natuurlijk veel gadgets, zoals VR, arcade en een unieke grijpmachine voor de snacks. Groot feest op onze openingsparty.
+We proudly open the doors to our hip premises in the Werkspoorkathedraal. Equiped with lots of space, lots of light and of course lots of gadgets, such as VR, arcade and a unique grabbing machine for snacks. Big celebration at our opening party.
