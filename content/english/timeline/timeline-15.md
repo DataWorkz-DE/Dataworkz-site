@@ -11,4 +11,4 @@ image: "/images/timeline/Slide8.jpeg"
 
 ---
 
-We zijn ook dit jaar weer met de hele club op bezoek bij de ODSC in London, maar het was natuurlijk bijzonders speciaal op de Big Data Days in Moscow te mogen spreken. Arno en Bogdan presenteerden Data Science as a Service en hoe je met beeldherkenning op slimme manier parkeerkosten kan besparen. En als je dan in Moskou mag spreken kunnen we ze natuurlijk niet alleen laten gaan dus waren we daar met een mooie delegatie om het congres bij te wonen en tussendoor ook Moskou bekijken.
+This year, we are visiting the ODSC in London again with the whole club, but of course it was extra special to speak at the Big Data Days in Moscow. Arno and Bogdan presented Data Science as a Service and how image recognition can save parking costs in a smart way. And if you get the chance to speak in Moscow, we can't let them go alone so we were there with a nice delegation to attend the conference and see Moscow in between.
