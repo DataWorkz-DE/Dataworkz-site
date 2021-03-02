@@ -1,6 +1,6 @@
 ---
 
-title: "Kerstdiner en andere socials"
+title: "Christmas dinner and other socials"
 draft: false
 
 type: "timeline"
@@ -11,4 +11,4 @@ image: "/images/timeline/Slide10.jpeg"
 
 ---
 
-Met rond 40 gasten huren we deze keer een hele etage van de watertoren in Utrecht af voor ons jaarlijks kerstdiner. Er waren veel socials dit jaar, zoals kitevliegeren, golven, een dagje walibi of gewoon stappen in Rotterdam, maar bourgondisch een feestelijk genieten van een luxe kerstdiner hoort altijd tot de hoogte punten.
+With around 40 guests, we rented an entire floor of the water tower in Utrecht for our annual Christmas dinner. There were many socials this year, such as kite flying, golfing, a day at Walibi or simply going out in Rotterdam, but enjoying a festive and luxurious Christmas dinner is always one of the highlights.
