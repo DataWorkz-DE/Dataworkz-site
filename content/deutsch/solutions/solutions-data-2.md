@@ -1,19 +1,21 @@
 ---
-title: No more messy data
+title: Kein Datenchaos mehr
 image: images/solutions/hero.jpg
 weight: 1
 icon: ti-trash
 focus: solutions
 
 ---
-**Vervuilde data is duur**. Organisaties zijn van mening dat gemiddeld 25 procent van hun gegevens onnauwkeurig is, een factor die van invloed is op het bedrijfsresultaat. Dit is goed verwoord in de **1-10-100 regel**: Als het je 1 euro kost om een datafout te voorkomen, kost het je 10 euro als je deze achteraf moet corrigeren - en 100 euro als er door deze fout een probleem ontstaat.
 
-Onze aanpak zorgt ervoor, dat bedrijven datavervuiling voorkomen aan de bron, namelijk in de data pipeline.
+**Datenverschmutzung ist teuer!** Die meisten Organisationen geben an, dass geschätzte 25% ihrer Daten ungenau sind, ein Faktor, der das Geschäftsergebnis stark beeinflusst. Dies lässt sich am besten mit der **1-10-100-Regel**  erklären: Wenn es dich 1 Euro kostet, einen Datenfehler zu vermeiden, kostet es dich 10 Euro, ihn anschließend zu beheben - und 100 Euro, wenn durch diesen Fehler ein Problem entsteht.
 
-**Wij bouwen geautomatiseerde tests in jouw datapipeline, zodat er geen druppel vieze data meer binnen kan stromen.**
+Unser Ansatz stellt sicher, dass Unternehmen Datenverschmutzung an der Quelle, der Datenpipeline, verhindern.
 
-**Binnen circa 2 weken tijd** gaan wij met ondersteuning van jouw domein specialisten:
+**Wir bauen automatisierte Tests in deine Datenpipeline ein, um zu verhindern, dass verschmutzte Daten Auswirkungen auf dein Geschäft haben. **
 
-* een automatisch data test framework inbouwen in jouw bestaande data pipeline;
-* één data pipeline volledig programmeren met automatische tests;
-* en je in workshops van alle nodige kennis voorzien, zodat jij de rest van jouw data pipelines zelf kan (test)automatiseren.
+In ca. 2 Wochen werden wir, mit Unterstützung deines Domainspezialisten:
+
+* Ein automatisiertes Datentest-Framework innerhalb deiner bestehenden Datenpipeline einbauen
+* Eine Datenpipeline komplett mit automatisierten Tests programmieren
+* Dich in Workshops unterstützen, um dir das nötige Wissen zu vermitteln, damit du den Rest deiner Datenpipelines selbst (test)automatisieren kannst
+
