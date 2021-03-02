@@ -1,6 +1,6 @@
 ---
 
-title: "Kerstdiner en andere socials"
+title: "Weihnachtsessen und andere Socials"
 draft: false
 
 type: "timeline"
@@ -11,4 +11,4 @@ image: "/images/timeline/Slide10.jpeg"
 
 ---
 
-Met rond 40 gasten huren we deze keer een hele etage van de watertoren in Utrecht af voor ons jaarlijks kerstdiner. Er waren veel socials dit jaar, zoals kitevliegeren, golven, een dagje walibi of gewoon stappen in Rotterdam, maar bourgondisch een feestelijk genieten van een luxe kerstdiner hoort altijd tot de hoogte punten.
+Mit etwa 40 Gästen mieteten wir eine ganze Etage des Wasserturms in Utrecht für unser jährliches Weihnachtsessen. In diesem Jahr gab es viele Aktivitäten, wie z.B. Drachensteigen, Golfen, einen Tag bei Walibi oder einfach mal feiern in Rotterdam, aber ein festliches und luxuriöses Weihnachtsessen zu genießen ist immer einer der Höhepunkte.
