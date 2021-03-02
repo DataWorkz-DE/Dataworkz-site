@@ -1,7 +1,7 @@
 ---
-title: Skitrip naar Gerlos
+title: Ski-Trip in Gerlos
 date: 2020-01-18T00:00:00Z
 image: "/images/timeline/Slide11.jpeg"
 
 ---
-Traditioneel ski weekje in een mooi hotel direct aan de piste. Bij Kaiserwetter met een groep van 16 man dansen bij Seppies. Ook weer met een groepje beginners die les nemen, om zo ook naar Seppies te kunnen.
+Traditionelle Skiwoche in einem schönen Hotel direkt an der Piste. Bei Kaiserwetter mit einer Gruppe von 16 Personen bei Seppies tanzen. Auch mit einer Gruppe von Anfängern, die Unterricht nehmen, damit sie auch zu Seppies gehen können.
