@@ -11,4 +11,4 @@ image: ""
 
 ---
 
-Was een van de meest succesvolle meetups 2019 met meer dan 90 deelnemers. Met elke 2 maanden een meetup en gast sprekers tellen we nu 600 leden in de meetup groep. We vertellen hoe je met GraphQL een neural network traint, hoe je met Reinforcement en Transfer learning alles uithaalt uit je data en natuurljik hoe we van tevoren weten wanner hollandse koeien tochtig zijn.
+War eines der erfolgreichsten Meetups 2019 mit über 90 Teilnehmern. Mit einem alle 2 Monate stattfindenden Meetup und Gastrednern zählen wir nun 600 Mitglieder in der Meetup-Gruppe. Wir verraten dir, wie du ein neuronales Netzwerk mit GraphQL trainieren, wie du mit Reinforcement und Transfer Learning das Beste aus deinen Daten herausholen kannst und natürlich, wie du im Voraus weißt, wann die holländischen Kühe brünstig sind.
