@@ -1,6 +1,6 @@
 ---
 
-title: "Nieuwjaarsborrel"
+title: "New-years reception"
 draft: false
 
 type: "timeline"
@@ -11,4 +11,4 @@ image: "/images/timeline/Slide12.jpeg"
 
 ---
 
-We starten het jaar en onze nieuwjaarsborrel met een escape room. A la casa de papel moeten we een bankkluis kraken. Ik weet niet hoe ze het geflikt hebben maar we staan op het all-time scorebord.
+We start the year and our New Year's reception with an escape room. A la casa de papel we have to crack a bank vault. I don't know how they managed it but we are on the all-time scoreboard.
