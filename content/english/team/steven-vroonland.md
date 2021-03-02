@@ -11,22 +11,22 @@ type = "team"
 
 +++
 
-**Helm:** gelukkig nog nooit echt nodig gehad bij het gravelbiken
+**Helmet:** Fortunately, I have never really needed it for gravel biking
 
-**Plectrum:** voor een snerpend elektrische gitaarsolootje draai ik mijn hand niet om
+**Plectrum:** I'm not afraid of a scorching electric guitar solo
 
-**Schoenen:** klimschoenen bij een van mijn favoriete hobby's: boulderen
+**Climbing shoes:** climbing shoes for one of my favourite hobbies: bouldering
 
-**Bladmuziek:** een van de klassieke stukken (Rachmaninov) die ik speel op piano
+**Sheet music:** one of the classical pieces (Rachmaninov) that I play on the piano
 
-**Racket:** squash is een fantastisch explosieve sport
+**Racket:** squash is a fantastic explosive sport
 
-**Reisgids:** ik reis graag, Hong Kong heb ik bijzondere herinneringen aan
+**Travel guide:** I like to travel, I have special memories of Hong Kong
 
-**Avocado:** lekker en een beetje gezond eten
+**Avocado:** tasty and healthy food
 
-**Boek:** mijn boekenkast staat trots in mijn woonkamer, vol met allerlei fictie en non-fictie
+**Book:** my bookcase stands proudly in my living room, full of all kinds of fiction and non-fiction
 
-**Controller:** fan van Tomb Raider, Horizon Zero Dawn en Assassin's Creed
+**Controller:** fan of Tomb Raider, Horizon Zero Dawn and Assassin's Creed
 
-**Macbook:** mijn professionele gereedschap bij voorkeur, al sinds 2005
+**Macbook:** my preferred professional tool, since 2005
