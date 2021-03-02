@@ -10,10 +10,10 @@ interest:
 contact: 
 
 ---
-* **Scarf**: Oeteldonk
-* **Trompet**: Muziek
-* **Coffee**: Delicious
-* **Java Magazine**: Coding
-* **Apple Macbook**: Work
-* **Apple watch**: Gadgets
-* **Fruit**: Healthy
+* **Scarf:** Oeteldonk
+* **Trompet:** Muziek
+* **Coffee:** Delicious
+* **Java Magazine:** Coding
+* **Apple Macbook:** Work
+* **Apple watch:** Gadgets
+* **Fruit:** Healthy
