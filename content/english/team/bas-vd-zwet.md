@@ -54,17 +54,17 @@ contact:
 type: "team"
 ---
 
-* **Oakley skibril**: Snel de piste afknallen
-* **Truffelschaaf**: Lekker eten
-* **Santa Sofia (fles wijn)**: Lekker drinken
-* **Bbq bijbel**: Overal gezelligheid, ook buiten tijdens het koken en eten (maar dan wel lekker en met passie)
-* **Steve Jobs de biografie**: Nieuw wereld, nieuwe technologie, veel kansen
-* **Red Bull 33**: Lekker chauvinistisch sport kijken met vrienden
-* **Hartjes**: Voor beide dochters en vrouw
-* **Dromen Durven Doen**: Volg je droom en just do it 
-* **Agenda met Dataworkz logo**: Trotse regelaar en manusje van alles, iemand moet alles opschrijven
-* **Geurtje Armani Together with you**: Verzorgd uiterlijk meets mr nice guy
-* **Armbandjes**: Hip willen zijn (lukt niet altijd meer, ik word ouder)
-* **Hippe sneakers**: Praktisch boven uiterlijk, zitten echt heerlijk die Nike Air….
-* **Hockey stick**: Gezellig met hockeyteam drankje doen vs. proberen sportief te blijven
-* **Wierrook**: Kerst zijn de leukste dagen van het jaar, gewoon gezellig eten en drinken met familie en vrienden…. Deze geur doet mij aan kerst denken
+* **Oakley ski goggles**: Speed and slopes
+* **Truffle shaver**: I love good food
+* **Santa Sofia (wine)**: I also love great wine
+* **BBQ bible**: Overall cosyness, also outside during the cooking and eating (making great food with passion)
+* **Steve Jobs bio**: New world, new technology, lots of opportunities
+* **Red Bull 33**: Rooting for Max with friends
+* **Hearts**: For both daughters and my wife
+* **Dromen Durven Doen**: Follow your dream en just do it 
+* **Calender with Dataworkz logo**: Proud fixer and jack of all trades, someone has to write it all down
+* **Armani Together with you**: Well-groomed appearance meets mr nice guy
+* **Bracelets**: Wanting to be fasionable (doens't alway work, I'm getting old)
+* **Fasionable sneakers**: practical above appearance, those Nike air are sooo comfortable
+* **Hockey stick**: Having fun with my hockey team vs trying to remain fit 
+* **Incense**: Christmas are de best days of the year, having a great time with a glas of wine and great food... This scent reminds me of christmas 
