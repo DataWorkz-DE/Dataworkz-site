@@ -7,4 +7,4 @@ date: "2017-12-24T00:00:00Z"
 
 ---
 
-Tijd om de eerste successen met elkaar te vieren bij een feestelijk kerstdiner. Vieren doen we niet alleen maar zo veel mogelijk met de partners en de families. Met kerst is een mooie traditie geboren.... een feestelijk kerstdiner met de partners op een mooie locatie.
+Time to celebrate the first successes with each other at a festive Christmas dinner. Celebration is not something we do alone, but with partners and families as much as possible. At Christmas, a beautiful tradition is born.... a festive Christmas dinner with the partners at a beautiful location.
