@@ -1,125 +1,125 @@
 - id: read_more
-  translation: Lees meer
+  translation: Mehr erfahren
 
 - id: contact_form
-  translation: Contact formulier
+  translation: Kontakt Formular
 
 - id: send
-  translation: stuur bericht
+  translation: Nachricht senden
 
 - id: contact_info
-  translation: Contact info
+  translation: Kontakt Info
 
 - id: subscribe_newsletter
-  translation: Inschrijven nieuwsbrief
+  translation: Newsletter anmelden
 
 - id: subscribe
-  translation: Inschrijven
+  translation: Anmelden
 
 - id: contact_us
-  translation: Contact opnemen
+  translation: Kontakt aufnehmen
 
 - id: latest_article
-  translation: Laatste artikel
+  translation: Letzte Artikel
 
 - id: categories
-  translation: Categorien
+  translation: Kategorien
 
 - id: tags
   translation: Tags
 
 - id: see_all
-  translation: Alle items
+  translation: Alle Items
 
 - id: apply_now
-  translation: Nu aanmelden
+  translation: Jetzt anmelden
 
 - id: posted_by
-  translation: Gepost door
+  translation: Gepost von
 
 - id: blogs_by
-  translation: Blogs door
+  translation: Blogs von
 
 - id: date
   translation: Datum
 
 - id: time
-  translation: tijd
+  translation: Zeit
 
 - id: category
-  translation: Category
+  translation: Kategorie
 
 - id: related_course
-  translation: Verwante workshop
+  translation: Verwanter Kurs
 
 - id: duration
-  translation: duur
+  translation: Dauer
 
 - id: weekly
-  translation: wekelijks
+  translation: Wöchentlich
 
 - id: fee
-  translation: kosten
+  translation: Kosten
 
 - id: teacher
-  translation: docent
+  translation: Dozent
 
 - id: location
-  translation: location
+  translation: Lokation
 
 - id: entry_fee
-  translation: kosten
+  translation: Kosten
 
 - id: event_speaker
-  translation: Event sprekers
+  translation: Event Sprechers
 
 - id: more_event
-  translation: Andere events
+  translation: Andere Events
 
 - id: join
-  translation: Meedoen
+  translation: Beitreten
   
 - id: enter_email
-  translation: Geef je email op…
+  translation: E-Mail eingeben
 
 - id: company
-  translation: bedrijf
+  translation: Unternehmen
 
 - id: links
-  translation: links
+  translation: Links
 
 - id: courses
   translation: Workshops
 
 - id: new_notice
-  translation: nieuw bericht
+  translation: Neue Mitteilung
 
 - id: call
-  translation: bel
+  translation: Anrufen
 
 - id: email
-  translation: email
+  translation: E-Mail
 
 - id: all
-  translation: Allen
+  translation: Alle
 
 - id: interest
-  translation: OPSOMMING VAN ACTIVITEITEN
+  translation: LISTE DER AKTIVITÄTEN
 
 - id: our_teachers
-  translation: Our docenten
+  translation: Unsere Dozenten
 
 - id: download
   translation: Download
 
 - id: contact_name
-  translation: Je naam
+  translation: Deine Name
 
 - id: contact_name
-  translation: Je naam
+  translation: Deine Name
 - id: contact_email
-  translation: Je email
+  translation: Deine E-Mail
 - id: contact_subject
-  translation: Jouw onderwerp
+  translation: Dein Betreff
 - id: contact_message
-  translation: Jouw bericht
+  translation: Deine Nachricht
