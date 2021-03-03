@@ -11,4 +11,4 @@ image: ""
 
 ---
 
-Met inmiddels 5 meetups zijn we op stoom en vertellen we samen met Hashicorp hoe je multicloud platformen secuur kan maken. Het is vooral leuk om meetups met klanten samen te doen, zoals ook met de Port of Rotterdam, waar we gezamenlijk toelichten hoe Data Science Serverless werkt op land, in de zee en in de cloud.
+With 5 meetups now, we are up to speed and together with Hashicorp we explain how to make multicloud platforms secure. It is especially nice to do meetups with customers together, like with the Port of Rotterdam, where we jointly explain how Data Science Serverless works on land, in the sea and in the cloud.
