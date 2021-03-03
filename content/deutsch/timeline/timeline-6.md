@@ -4,4 +4,4 @@ date: 2018-05-05T00:00:00Z
 image: "/images/timeline/Slide2.jpeg"
 
 ---
-Elkaar inspireren en kennis delen. Hoe doe je dat als je veel bij klanten werkt? Bij Dataworkz hebben we daarom regelmatig de Workzpoor Thursdays, waar we op kantoor in de Werkspoorkathedraal werken, elkaar en onze klanten helpen. Bij lunchsessies en avondworkshops werden ervaringen gedeeld. We sluiten af met onze inmiddels traditionele thaise diner en natuurlijk een biertje.
+Sich gegenseitig inspirieren und Wissen teilen. Wie können wir das erreichen, wenn wir oft bei Kunden vor Ort arbeiten? Bei Dataworkz haben wir deshalb regelmäßig Workzpoor Thursdays, an denen wir im Büro im Werkspoor-Cathedral arbeiten und uns gegenseitig und unsere Kunden helfen. Erfahrungen werden während der Mittagssitzungen und abendlichen Workshops ausgetauscht. Zum Abschluss gibt es unser mittlerweile traditionelles thailändisches Abendessen und natürlich ein kleines Bierchen.
