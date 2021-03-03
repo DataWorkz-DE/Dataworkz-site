@@ -60,7 +60,7 @@ about:
     und coole Dinge für Kunden zu tun, das ist der Kern von Dataworkz.
   button:
     enable: true
-    label: Meer erfahren über Dataworkz?
+    label: Mehr erfahren über Dataworkz?
     link: about
 course:
   enable: true
