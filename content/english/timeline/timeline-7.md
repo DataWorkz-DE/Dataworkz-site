@@ -11,4 +11,4 @@ image: "/images/timeline/Slide3.jpeg"
 
 ---
 
-We vieren de verjaardag van Dataworkz met een luxe weekendje weg in de Ardennen. Samen met onze partners genieten we van de natuur en doen we leuke dingen zoals Kajaken, Chocolade workshop, biljarten, buiten bubble baden en natuurlijk ook hebben we ook een gezellige feestavond met DJ Bas..
+We celebrate the anniversary of Dataworkz with a luxury weekend in the Ardennes. Together with our partners, we enjoy nature and do fun things like kayaking, chocolate workshop, billiards, outdoor bubble baths and of course, we also have a great party evening with DJ Bas.
