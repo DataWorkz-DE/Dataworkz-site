@@ -1,7 +1,7 @@
 ---
-title: Skien
+title: Skiing
 date: 2018-01-24T00:00:00Z
 image: ''
 
 ---
-Fun is erg belangrijk voor ons en waar kan je het gezelliger hebben met veel lol dan in de sneeuw. Het eerste Dataworkz ski-uitje is geboren en is onderdeel van de jaarlijkse agenda van het bedrijf. Niet verplicht maar wel erg gezellig en vooral ook leuk om met elkaar te skiën en een drankje te drinken.
+Fun is very important to us and where can you have more fun than in the snow. The first Dataworkz ski trip was just awesome and is part of the company's annual agenda. Not obligatory but it's all about having fun to together.
