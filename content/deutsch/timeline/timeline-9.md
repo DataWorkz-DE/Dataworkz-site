@@ -10,4 +10,4 @@ image: "/images/timeline/Slide4.jpeg"
 
 ---
 
-Wat zijn we blij dat onze Olaf op de ODSC mag presenteren hoe hij met Tweets de bitcoin market kan voorspellen. Niet alleen omdat we hier supertrots op zijn, maar vooral omdat dit leidt tot veel inspirerende gesprekken met en zonder bier. Met directe resultaten bij onze klanten (zoals het inzetten van AutoML). En omdat het zo leuk is, gaan we nog meer spreken op Devoxx Belgie, Hashidays, Teqnation en de JFall.
+Wir freuen uns sehr, dass unser Olaf auf der ODSC präsentieren wird, wie er mit Tweets den Bitcoin-Markt vorhersagen kann. Nicht nur, weil wir sehr stolz darauf sind, sondern vor allem, weil es zu vielen anregenden Gesprächen mit und ohne Bier führt. Mit direkten Ergebnissen für unsere Kunden (wie der Einsatz von AutoML). Und weil es so viel Spaß macht, werden wir auch auf der Devoxx Belgium, den Hashidays, der Teqnation und der JFall sprechen.
