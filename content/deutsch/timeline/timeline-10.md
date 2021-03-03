@@ -1,5 +1,5 @@
 ---
-title: Feestelijk kerstdiner
+title: Feierliches Weihnachtsdinner
 date: 2018-12-14T00:00:00Z
 image: ''
 
