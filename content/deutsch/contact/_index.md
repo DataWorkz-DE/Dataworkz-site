@@ -1,5 +1,5 @@
 ---
-title: "Nimm Kontakt mit uns auf!"
+title: "Nimm Kontakt mit uns auf"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/contact.jpg"
