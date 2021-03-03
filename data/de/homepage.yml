@@ -3,11 +3,15 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Maatwerk oplossingen voor test data vraagstukken
-    content: Data is voor bedrijven de belangrijkste onderscheidende factor geworden.
-      Hiervoor heb je experts nodig. Wij hebben die data engineers, die begrijpen
-      hoe je data technisch moet ontsluiten en de data scientists die de juiste informatie
-      uit je data gaan halen.
+  - title: Kundenspezifische Lösungen für Data Herausforderungen!
+    content: Daten sind zu DEM differenzierenden Faktor für Unternehmen geworden.
+      Um das Beste aus deinen Daten heauszuholen, brauchst du Experten, die dich diese Daten 
+      Bestmöglich nutzen lassen. Wir können dir Dateningenieure zur Verfügung stellen die deine
+      zugänglich machen und haben die Data Scientists, die die richtige Informationen aus deinen
+      Daten herausholen können! 
+      Wir sind vor 4 Jahren in den Niederlanden gestartet und haben viele Kunden mit unserer
+      hochtechnischen und direkten Arbeitsweise überzeugen können. Seit 2021 sind wir nun auch 
+      in Deutschland!
     animation_in: ''
     animation_out: ''
     button:
