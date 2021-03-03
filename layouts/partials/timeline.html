@@ -1,3 +1,5 @@
+{{ $data := index site.Data site.Language.Lang }}
+
 <section class="timeline">
   <div class="container">
     {{ $.Scratch.Set "counter" 0 }}
@@ -31,7 +33,7 @@
           <h2>{{ .Title }}</h2>
         {{ end }}
             <div class="date">
-              {{ .Params.date.Day }} {{ index $.Site.Data.maanden (printf "%d" .Params.date.Month) }} {{ .Params.date.Year }}
+              {{ .Params.date.Day }} {{ index $data.months (printf "%d" .Params.date.Month) }} {{ .Params.date.Year }}
             </div>
             {{ .Content }}
             <!-- <a class="bnt-more" href="javascript:void(0)">More</a> -->

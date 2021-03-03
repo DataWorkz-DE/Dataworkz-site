@@ -19,7 +19,7 @@
             {{ $events := where site.RegularPages "Type" "event" }}
             {{ $events := $events | intersect (where $events "Date" "ge" now) }}
             {{ if and (lt (len ($events)) 1)  }}
-            <p>Er zijn nog geen events gepland, houd de site in de gaten!</p>
+            <p>{{ i18n "events_none" }}</p>
             {{ end }}
             <!-- event -->
             {{ range first 3 ($events)}}

@@ -76,6 +76,9 @@
 - id: more_event
   translation: Andere Events
 
+- id: events_none
+  translation: Es sind noch keine Veranstaltungen geplant, behalte die Seite im Auge!
+
 - id: join
   translation: Beitreten
   
