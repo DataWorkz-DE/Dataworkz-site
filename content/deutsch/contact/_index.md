@@ -1,5 +1,5 @@
 ---
-title: "Nimm Kontakt mit uns auf"
+title: "Contact"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/contact.jpg"
@@ -7,4 +7,4 @@ bg_image: "images/backgrounds/contact.jpg"
 description : ""
 ---
 
-Schicke uns eine Nachricht oder besuche uns unter unserer Adresse.
+Schicke uns eine Nachricht oder ruf einfach direkt an.
