@@ -122,14 +122,14 @@ target = "i18n"
 source = "archetypes"
 target = "archetypes"
 [params]
-address = "Tractieweg 41 studio N, 3534 AP Utrecht"
+address = ""
 author = "Dataworkz GmbH."
 contact_form_action = "https://formspree.io/xleodbng"
 description = "Dataworkz is de specialist in data science & data engineering"
 email = "info@dataworkz.de"
 google_analitycs_id = "G-3PG6NYRP8M"
 logo = "images/logo.png"
-mobile = "+31 (0)6 10 49 20 44"
+mobile = "+49 (0)176 164 007 57"
 top_header = false
 [params.map]
 enable = false
