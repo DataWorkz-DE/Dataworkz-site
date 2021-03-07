@@ -3,15 +3,11 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Kundenspezifische Lösungen für Data Herausforderungen
-    content: Daten sind zu DEM differenzierenden Faktor für Unternehmen geworden.
-      Um das Beste aus deinen Daten heauszuholen, brauchst du Experten, die dich diese 
-      Daten Bestmöglich nutzen lassen. Wir können dir Dateningenieure zur Verfügung 
-      stellen die deine zugänglich machen und haben die Data Scientists, die die 
-      richtige Informationen aus deinen Daten herausholen können! 
-      Wir sind vor 4 Jahren in den Niederlanden gestartet und haben viele Kunden mit unserer
-      hochtechnischen und direkten Arbeitsweise überzeugen können. Seit 2021 sind wir nun auch 
-      in Deutschland!
+  - title: Kundenspezifische Data Lösungen
+    content: Seit 4 Jahren bietet Dataworkz hochkarätige Daten Beratung für verschiedene Kunden
+      in den Niederlanden. In 2021 ist die Zeit gekommen, all dieses Wissen nach Deutschland 
+     zu bringen! Lass dir von unseren High-End Data Engineers und Data Scientists helfen, das 
+      Beste aus deinen Daten herauszuholen!
     animation_in: ''
     animation_out: ''
     button:
