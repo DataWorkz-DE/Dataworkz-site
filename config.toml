@@ -129,7 +129,7 @@ description = "Dataworkz is de specialist in data science & data engineering"
 email = "info@dataworkz.de"
 google_analitycs_id = "G-3PG6NYRP8M"
 logo = "images/logo.png"
-mobile = "+49 (0)176 164 007 57"
+mobile = "+49 (0) 176 164 007 57"
 top_header = false
 [params.map]
 enable = false
