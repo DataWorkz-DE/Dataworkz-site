@@ -27,7 +27,7 @@ Working as a Data Engineer, you will be responsible for setting up and maintaini
 * Knowledge of modern Datawarehouse solutions (Snowflake, AWS Redshift) 
 *
 
-## WIJ BIEDEN
+## We offer
 
 * A challenging career with a young growing company  
 * Innovating projects where you can show off your skills and learn new ones
