@@ -40,10 +40,10 @@ URL = "event"
 name = "Events"
 [[menu.footer]]
 URL = "career"
-name = "Karriere"
+name = "Career"
 [[menu.footer]]
 URL = "blog"
-name = "Blogs"
+name = "Blog"
 [[menu.main]]
 URL = "solutions"
 footerDisplay = false
@@ -125,7 +125,7 @@ target = "archetypes"
 address = ""
 author = "Dataworkz GmbH."
 contact_form_action = "https://formspree.io/xleodbng"
-description = "Dataworkz is de specialist in data science & data engineering"
+description = "Dataworkz is the specialist in data science & data engineering"
 email = "info@dataworkz.de"
 google_analitycs_id = "G-3PG6NYRP8M"
 logo = "images/logo.png"
