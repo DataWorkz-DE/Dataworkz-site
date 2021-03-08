@@ -116,10 +116,10 @@
   translation: Download
 
 - id: contact_name
-  translation: Deine Name
+  translation: Dein Name
 
 - id: contact_name
-  translation: Deine Name
+  translation: Dein Name
 - id: contact_email
   translation: Deine E-Mail
 - id: contact_subject
