@@ -4,7 +4,7 @@ slider:
   bg_image: images/banner/banner-1.jpg
   slider_item:
   - title: Kundenspezifische Data Lösungen
-    content: Seit 4 Jahren bietet Dataworkz hochkarätige Daten Beratung für verschiedene Kunden
+    content: Seit 4 Jahren bietet Dataworkz hochkarätigeBeratung im Bereich Daten für verschiedene Kunden
       in den Niederlanden. Jetzt ist die Zeit gekommen, all dieses Wissen nach Deutschland zu
       bringen! Lass dir von unseren High-End Data Engineers und Data Scientists helfen, das 
       Beste aus deinen Daten herauszuholen!
@@ -21,13 +21,13 @@ banner_feature:
   - name: Quick wins
     icon: ti-book
     content: Wir haben einige Quick Wins für technische Probleme innerhalb der Datenwelt entwickelts.
-      Erkennst du diese Heausforderungen? Wir können dir helfe, diese Herausforderung mit einem 
-      konkreten Ergebniss innerhalb von etwa 2 Wochen. 
+      Erkennst du diese Herausforderungen? Wir können dir helfen, diese Herausforderung mit einem 
+      konkreten Ergebniss innerhalb von etwa 2 Wochen zu lösen. 
     button:
       enable: true
       label: Mehr erfahren
       link: "/solutions#data-oplossingen"
-  - name: Data workshops und Trainingen
+  - name: Data Workshops und Trainings
     icon: ti-blackboard
     content: Von den ersten Schritten in Python bis zur Erstellung deiner ersten Deep Learning 
       Projekte. Mit unserem Kurs nehmen wir deine Mitarbeiter mit in die neue und spannende Welt
@@ -36,7 +36,7 @@ banner_feature:
       enable: true
       label: Mehr erfahren
       link: "/solutions#data-workshop"
-  - name: Data consultancy
+  - name: Data Consultancy
     icon: ti-agenda
     content: Egal, ob es sich um kurz- oder langfristige Projekte handelt, mit jedem einzelnen Berater
        kannst du auf das Wissen aller Dataworkz-Ingenieure zugreifen, um hochmoderne Datenplattformen 
@@ -49,10 +49,11 @@ about:
   enable: true
   title: Über Dataworkz
   image: images/about/about-us.jpg
-  content: Alles begann im Winter 2016 mit einem unschuldigen Telefonat und einem Abendessen
+  content: Alles begann im Winter 2016 mit einem ersten Telefonat und einem Abendessen
     mit den derzeitigen Gesellschaftern. Schnell war die Idee geboren, einen coolen technischen 
     Datenklub zu gründen. Daten werden im täglichen (Arbeits-)Leben immer wichtiger. Von der Idee 
-    bis zum den Mittelpunkt des Unternehmens zu stellen. Sich mit seinen Leuten zu verbinden
+    bis zum Start war es eine ziemlich hektische Zeit, aber für uns war er immer wichtig, unsere 
+    Mitarbeiter in den Mittelpunkt des Unternehmens zu stellen. Sich mit seinen Leuten zu verbinden
     und coole Dinge für Kunden zu tun, das ist der Kern von Dataworkz.
   button:
     enable: true
