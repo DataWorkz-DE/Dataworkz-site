@@ -16,16 +16,15 @@ Sounds interesting?
 
 Working as a Data Engineer, you will be responsible for setting up and maintaining data landscapes and to make the contents of these landscapes available. You will be working with shareholders to create scalable, reliable and flexible solutions that are easy to work with. We certainly won’t expect you the bring ALL parts of the following skill-set. Your future fellow engineers all have their strengths. That’s what makes Dataworkz a great place to work and learn. It would however be great if you bring some of the following skills:  
 
-* Solid programming skills like Python, Golang, Java or Scala. You know your way around functional programming and OO design patterns.  
-* Creation data and machine learning pipelines.
+* Solid programming skills like Python, Golang, Java or Scala.   
+* Creating data and machine learning pipelines.
 * Developing scalable and high-performance cloud solutions like OpenShift, Azure, AWS, GCP, or Kubernetes.
 * Configuring and developing on premise and cloud-based CI/CD solution (Jenkins, Gitlab, TFS, Azure DevOps, MLFlow) 
-* Knowledge of big data processing like Spark, Kafka, Flink, AWS Kinesis, Azure Event Hub and flow development (Airflow, Nifi) 
+* Knowledge of big data processing (Spark, Kafka) and flow development (Airflow, Nifi) 
 * Search engine experience (ElasticSearch) 
 * Knowledge of big data storage (like HDFS, Hive, HBASE, Cassandra, MongoDB, Neo4J, FlockDB) and the appropriate techniques (SQL, Graph, Document) 
 * Familiarity with Machine Learning techniques 
 * Knowledge of modern Datawarehouse solutions (Snowflake, AWS Redshift) 
-*
 
 ## We offer
 
