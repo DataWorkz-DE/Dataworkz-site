@@ -110,4 +110,4 @@ funfacts:
     count: "1400"
 blog:
   enable: true
-  title: Neueste Blogs
+  title: Neueste Blog
