@@ -13,18 +13,20 @@ Klingt interessant?
 
 
 ## Wir suchen
+Wir suchen erfahrenen Data Engineers die einerseits anspruchsvolle Projekte haben wollen, und anderseits gemeinsam
+mit uns die kommende Jahren wachsen möchten. In den Niederlande haben wir uns bereits eine Name aufgebaut, hast du
+Bock gemeinsam mit uns Hamburg zu erobern?!
 
-Als Data Engineer bist du für den Aufbau und die Pflege von Datenlandschaften verantwortlich und stellen die Inhalte dieser Landschaften zur Verfügung. Du arbeitest mit Shareholdern zusammen, um skalierbare, zuverlässige und flexible Lösungen zu erstellen, die einfach zu bedienen sind. Wir erwarten sicherlich nicht, dass du **alle** Teile des folgenden Skillsets mitbringen. Deine zukünftigen Kolleginnen und Kollegen haben alle ihre Stärken. Das ist es, was Dataworkz zu einem großartigen Umfeld zum Arbeiten und Lernen macht. Es wäre natürlich großartig, wenn du einige der folgenden Fähigkeiten mitbringen würdest:
+Als Data Engineer bist du für den Aufbau und die Pflege von Datenlandschaften verantwortlich und stellst die Inhalte dieser Landschaften zur Verfügung. Du arbeitest mit Shareholdern zusammen, um skalierbare, zuverlässige und flexible Lösungen zu erstellen, die einfach zu bedienen sind. Wir erwarten sicherlich nicht, dass du **alle** Teile des folgenden Skillsets mitbringt. Es wäre natürlich großartig, wenn du einige der folgenden Fähigkeiten mitbringen würdest:
 
 
 * Solide Programmierkenntnisse wie Python, Golang, Java oder Scala. Du kennst dich mit funktionaler Programmierung und OO Design Patterns aus.
-* Erstellung von Daten und Pipelines für maschinelles Lernen.
+* Ausgeprägte Erfahrungen mit der Erstellung von Datenpipelines für Machine Learning!
 * Entwicklung von skalierbaren und leistungsstarken Cloud-Lösungen wie OpenShift, Azure, AWS, GCP oder Kubernetes.
 * Konfiguration und Entwicklung von On Premise- und Cloud-basierten CI/CD-Lösungen (Jenkins, Gitlab, TFS, Azure DevOps, MLFlow)
-* Kenntnisse in Big-Data-Verarbeitung wie Spark, Kafka, Flink, AWS Kinesis, Azure Event Hub und Flow-Entwicklung (Airflow, Nifi)
+* Kenntnisse in Big-Data-Verarbeitung (Spark, Kafka) und Flow-Entwicklung (Airflow, Nifi)
 * Erfahrung mit Suchmaschinen (ElasticSearch)
 * Kenntnisse über Big-Data-Speicher (wie HDFS, Hive, HBASE, Cassandra, MongoDB, Neo4J, FlockDB) und die entsprechenden Techniken (SQL, Graph, Document)
-* Vertrautheit mit Techniken des maschinellen Lernens
 * Kenntnisse über moderne Datawarehouse-Lösungen (Snowflake, AWS Redshift)
 
 ## Wir bieten
