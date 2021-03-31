@@ -45,7 +45,6 @@ name = "Career"
 URL = "blog"
 name = "Blog"
 [[menu.main]]
-URL = "solutions"
 footerDisplay = false
 hasChildren = true
 name = "Solutions"
@@ -63,7 +62,6 @@ URL = "solutions#data-workshop"
 name = "Workshops"
 parent = "Solutions"
 [[menu.main]]
-URL = "insights"
 footerDisplay = true
 name = "Insights"
 weight = 2
@@ -76,7 +74,6 @@ URL = "blog"
 name = "Blogs"
 parent = "Insights"
 [[menu.main]]
-URL = "about"
 footerDisplay = true
 name = "about"
 weight = 4
@@ -88,6 +85,10 @@ parent = "about"
 URL = "career"
 name = "Career"
 parent = "about"
+[[menu.main]]
+parent = "about"
+name = "About us"
+URL = "about"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
