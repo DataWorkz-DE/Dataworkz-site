@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<!-- content -->
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 content pb-4">
+                <h2>{{ .Params.title1 }}</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 content">
+                <ul>
+                    {{ range .Params.list1}}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            </div>
+
+            <div class="col-xs-12 col-sm-6">
+                <img src="/images/magic.svg" width="100%" height="200px" />
+            </div>
+            <div class="col-xs-12 col-sm-6 pt-5">
+                <img src="/images/pika.svg" width="100%" height="200px" />
+            </div>
+
+            <div class="col-xs-12 col-sm-6 content">
+                <ul>
+                    {{ range .Params.list2}}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+        <div class="row justify-content-center py-4">
+            <img src="/images/cloud.svg" width="100%" />
+        </div>
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 content">
+                <h2 id="hoe-dan" class="pb-3">{{ .Params.title2 }}</h2>
+                <p>{{ .Content }}</p>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+                <img class="rellax" data-rellax-speed="-1" src="/images/science.svg" width="100%" height="300px" />
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /content -->
+
+{{ end }}
