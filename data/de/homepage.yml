@@ -85,10 +85,8 @@ success_story:
   content: Wir suchen leidenschaftliche Datenenthusiasten (Engineering und Science), die bei  
     unseren Kunden den Unterschied ausmachen. Professionals, die Spaß daran haben, 
     Chancen in einem jungen Unternehmen zu ergreifen und die gerne mit Kollegen 
-    zusammenarbeiten, um Datenlösungen zu schaffen. Professionals, die über starke
-    werken bij toonaangevende klanten, deel willen uitmaken van een leuk team van
-    arbeiten wollen, die Teil eines Teams von Experten sein wollen, die Spaß daran haben, 
-    Wissen zu teilen und die für ihren Wert belohnt werden wollen.
+    zusammenarbeiten, um Datenlösungen zu schaffen. Professionals, die Teil eines Teams von Experten sein wollen, 
+    die Spaß daran haben, Wissen zu teilen und die für ihren Wert belohnt werden wollen.
   video_link: https://www.youtube.com/watch?v=IdV4n4hgIRY
   button:
     enable: true
@@ -96,7 +94,7 @@ success_story:
     link: career
 event:
   enable: true
-  title: Kommende Veranstalungen
+  title: Kommende Veranstaltungen
 funfacts:
   enable: false
   funfact_item:
