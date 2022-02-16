@@ -3,10 +3,10 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Kundenspezifische Data Lösungen
+  - title: Kundenspezifische Datenlösungen
     content: Seit 4 Jahren bietet Dataworkz hochkarätige Beratung im Bereich Daten für verschiedene Kunden
       in den Niederlanden. Jetzt ist die Zeit gekommen, all dieses Wissen nach Deutschland zu
-      bringen! Lass dir von unseren High-End Data Engineers und Data Scientists helfen, das 
+      bringen! Lass dir von unseren High-End Data Engineers und Data Scientists helfen das 
       Beste aus deinen Daten herauszuholen!
     animation_in: ''
     animation_out: ''
@@ -18,7 +18,7 @@ banner_feature:
   enable: true
   image: images/banner/banner-feature.png
   feature_item:
-  - name: Quick wins
+  - name: Quick Wins
     icon: ti-book
     content: Wir haben einige Quick Wins für technische Probleme innerhalb der Datenwelt entwickelt.
       Erkennst du diese Herausforderungen? Wir können dir helfen, diese Herausforderung mit einem 
@@ -38,9 +38,9 @@ banner_feature:
       link: "/solutions#data-workshop"
   - name: Data Consultancy
     icon: ti-agenda
-    content: Egal, ob es sich um kurz- oder langfristige Projekte handelt, mit jedem einzelnen Berater
-       kannst du auf das Wissen aller Dataworkz-Ingenieure zugreifen, um hochmoderne Datenplattformen 
-       oder Machine-Learning-Anwendungen zu entwickeln.
+    content: Egal ob es sich um kurz- oder langfristige Projekte handelt, mit jedem einzelnen Berater
+       kannst du auf das Wissen aller Dataworkz Ingenieure zugreifen, um hochmoderne Datenplattformen 
+       oder Machine Learning Anwendungen zu entwickeln.
     button:
       enable: true
       label: Mehr erfahren
@@ -57,11 +57,11 @@ about:
     und coole Dinge für Kunden zu tun, das ist der Kern von Dataworkz.
   button:
     enable: true
-    label: Mehr erfahren über Dataworkz?
+    label: Mehr über Dataworkz erfahren?
     link: about
 course:
   enable: true
-  title: Unsere workshops
+  title: Unsere Workshops
 cta:
   enable: false
   subtitle: Mehr über unsere Kunden erfahren?
@@ -73,7 +73,7 @@ cta:
 tech:
   enable: false
   subtitle: ''
-  title: Unsere Technologie-Auswahl
+  title: Unsere Technologieauswahl
   button:
     enable: false
     label: Mehr erfahren
@@ -85,12 +85,12 @@ success_story:
   content: Wir suchen leidenschaftliche Datenenthusiasten (Engineering und Science), die bei  
     unseren Kunden den Unterschied ausmachen. Professionals, die Spaß daran haben, 
     Chancen in einem jungen Unternehmen zu ergreifen und die gerne mit Kollegen 
-    zusammenarbeiten, um Datenlösungen zu schaffen. Professionals, die Teil eines Teams von Experten sein wollen 
+    zusammenarbeiten, um Datenlösungen zu schaffen. Spezialisten, die Teil eines Teams von Experten sein wollen 
     und Spaß daran haben, Wissen zu teilen und die für ihren Wert belohnt werden wollen.
   video_link: https://www.youtube.com/watch?v=IdV4n4hgIRY
   button:
     enable: true
-    label: Mehr erfahren?
+    label: Mehr erfahren
     link: career
 event:
   enable: true
@@ -108,4 +108,4 @@ funfacts:
     count: "1400"
 blog:
   enable: true
-  title: Neueste Blog
+  title: Neueste Blogeinträge
