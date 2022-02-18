@@ -14,7 +14,7 @@ languageCode = "en-En"
 languageName = "En"
 weight = 2
 [Languages.de]
-contentDir = "content/dutch"
+contentDir = "content/deutsch"
 copyright = "Copyright &copy; 2020 by [kokkelaar](https://kokkelaar.nl)"
 home = "Home"
 languageCode = "de-DE"
@@ -32,6 +32,10 @@ weight = 3
 URL = "contact"
 name = "Contact"
 weight = 5
+[[menu.company]]
+URL = "impressum"
+name = "Impressum"
+weight = 7
 [[menu.footer]]
 URL = "team"
 name = "Team"
