@@ -3,6 +3,7 @@ title: Arno Broekhof
 bg_image: images/backgrounds/page-title.jpg
 description: ''
 image: images/team/arno_overview.jpg
+location: Netherlands
 course: Data engineer
 bio: ''
 interest:

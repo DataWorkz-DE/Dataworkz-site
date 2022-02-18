@@ -8,6 +8,7 @@ description : ""
 # teacher portrait
 image: "images/team/basz_overview.jpg"
 # course
+location: Niederlande
 course: "Support"
 # biography
 bio: ""

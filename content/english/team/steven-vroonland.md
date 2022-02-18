@@ -1,15 +1,16 @@
-+++
-bg_image = "images/backgrounds/page-title.jpg"
-bio = ""
-contact = []
-course = "Data engineer"
-description = ""
-image = "/images/img_5426.JPG"
-interest = ["engineer"]
-title = "Steven Vroonland"
-type = "team"
+---
+bg_image: ""
+bio: ""
+contact: []
+location: Netherlands
+course: "Data engineer"
+description: ""
+image: "/images/img_5218.JPG"
+interest: ["engineering"]
+title: "Thijs Koot"
 
-+++
+---
+
 
 **Helmet:** Fortunately, I have never really needed it for gravel biking
 

@@ -3,10 +3,10 @@ title: Leslaw Kubosz
 bg_image: images/backgrounds/page-title.jpg
 description: ''
 image: images/team/leslaw_overview.jpg
+location: Netherlands
 course: Data engineer
 bio: ''
-interest:
-- engineer
+interest: [engineer]
 contact: 
 draft: true
 

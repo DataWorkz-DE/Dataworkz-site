@@ -8,6 +8,7 @@ description : ""
 # teacher portrait
 image: "images/team/robbert_overview.jpg"
 # course
+location: Netherlands
 course: "Data science"
 # biography
 bio: ""
