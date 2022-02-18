@@ -6,16 +6,17 @@ paginate = "6"
 summaryLength = "10"
 theme = "educenter"
 title = "Dataworkz.de | Specialist in data science & data engineering"
+# defaultContentLanguage = 'de'
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 by [kokkelaar](https://kokkelaar.nl)"
+copyright = "Copyright &copy; 2022 by [kokkelaar](https://kokkelaar.nl)"
 home = "Home"
 languageCode = "en-En"
 languageName = "En"
 weight = 2
 [Languages.de]
-contentDir = "content/dutch"
-copyright = "Copyright &copy; 2020 by [kokkelaar](https://kokkelaar.nl)"
+contentDir = "content/deutsch"
+copyright = "Copyright &copy; 2022 by [kokkelaar](https://kokkelaar.nl)"
 home = "Home"
 languageCode = "de-DE"
 languageName = "De"
@@ -32,6 +33,10 @@ weight = 3
 URL = "contact"
 name = "Contact"
 weight = 5
+[[menu.company]]
+URL = "impressum"
+name = "Impressum"
+weight = 7
 [[menu.footer]]
 URL = "team"
 name = "Team"
@@ -173,18 +178,10 @@ enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "https://twitter.com/dataworkznl"
-title = "twitter"
-[[params.social]]
-icon = "ti-sharethis"
-link = "https://www.meetup.com/nl-NL/DataWorkz/"
-title = "meetup"
-[[params.social]]
 icon = "ti-github"
-link = "https://github.com/DataWorkz-NL"
+link = "https://github.com/DataWorkz-DE"
 title = "github"
 [[params.social]]
 icon = "ti-linkedin"
-link = "https://www.linkedin.com/company/dataworkz/"
+link = "https://www.linkedin.com/company/dataworkz-gmbh/"
 title = "linkedin"
