@@ -8,6 +8,7 @@ description : ""
 # teacher portrait
 image: "images/team/jeff_overview.jpg"
 # course
+location: Niederlande
 course: "Data science"
 # biography
 bio: ""

@@ -1,15 +1,16 @@
-+++
-bg_image = "images/backgrounds/page-title.jpg"
-bio = ""
-contact = []
-course = "Data engineer"
-description = ""
-image = "/images/img_5426.JPG"
-interest = ["engineer"]
-title = "Steven Vroonland"
-type = "team"
+---
+bg_image: "images/backgrounds/page-title.jpg"
+bio: ""
+contact: []
+location: Niederlande
+course: "Data engineer"
+description: ""
+image: "/images/img_5426.JPG"
+interest: ["engineer"]
+title: "Steven Vroonland"
+type: "team"
 
-+++
+---
 
 **Helm:** gelukkig nog nooit echt nodig gehad bij het gravelbiken
 

@@ -8,6 +8,7 @@ description : ""
 # teacher portrait
 image: "images/team/paolo_overview.jpg"
 # course
+location: Niederlande
 course: "Data engineer"
 # biography
 bio: ""

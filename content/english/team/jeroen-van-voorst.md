@@ -1,14 +1,15 @@
-+++
-bg_image = ""
-bio = ""
-contact = []
-course = "Data engineer"
-description = ""
-image = "/images/whatsapp-image-2020-11-25-at-12-01-46.jpeg"
-interest = ["engineer"]
-title = "Jeroen van Voorst"
+---
+bg_image: ""
+bio: ""
+contact: []
+location: Netherlands
+course: "Data engineer"
+description: ""
+image: "/images/whatsapp-image-2020-11-25-at-12-01-46.jpeg"
+interest: ["engineer"]
+title: "Jeroen van Voorst"
 
-+++
+---
 * **Book One hundred years of solitude:** I love to read, especially books that make me think like “1984”, “Crime and punishment” and “One flew over the Cuckoo's Nest”.
 * **Plectrum:** I’ve played guitar since I was twelve years old. From country to metal and from electric to spanish guitar I love to play it all.
 * **Chess trophy:** I will always be bitter about coming in second in my first chess tournament when I was nine due to not knowing that when your opponent cannot set any moves you draw.
