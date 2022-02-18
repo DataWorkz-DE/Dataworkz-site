@@ -20,9 +20,9 @@ contact:
 type: "team"
 ---
 
-* **Foosball ball**: Kickern ist ein großes Hobby, mit guten Freunden Spaß am Tisch haben
-* **Foosball jersey & glove**: Ich spiele es aber auch in der Stadtliga und auf Turnieren
-* **Knive & morsel**: Lecker Essen kochen und vorallem mit den richtigen Gewürzen versehen ist mir sehr wichtig
-* **biking accessories**: Ich bewege mich am liebsten auf auf dem Drahtesel. Vielleicht bin ich doch Niederländer
-* **Playing cards & stones**: Ich spiele super gerne, ob digital oder am Küchentischen. Bonuspunkte, wenn du mir sagst, um welche Spiele es hier geht ;)
-* **books** : Fantasy und SciFi gehen immer
+* **Table Football ball**: Table Football aka Foosball is a great hobby of mine. Love meeting up in a pub with friends to have a beer and play a round or three
+* **Table Football jersey & glove**: I also play it in a league and participate in tournaments
+* **Knive & morsel**: Cooking yummy food while exploring different spices
+* **biking accessories**: I love biking, almost regardless of the weather. I might be dutch
+* **Playing cards & stones**: I am into playing games regardless if at a table or digitally. Points to you if you identify the games ;)
+* **books** : Fantasy and SciFi rock!

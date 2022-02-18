@@ -24,5 +24,5 @@ type: "team"
 * **Kickertrikot & -handschuh**: Ich spiele es aber auch in der Stadtliga und auf Turnieren
 * **Messer & Mörser**: Lecker Essen kochen und vorallem mit den richtigen Gewürzen versehen ist mir sehr wichtig
 * **Fahrradzubehör**: Ich bewege mich am liebsten auf auf dem Drahtesel. Vielleicht bin ich doch Niederländer
-* **Karten & Spielsteine**: Ich spiele super gerne, ob digital oder am Küchentischen. Bonuspunkte, wenn du mir sagst, um welche Spiele es hier geht ;)
+* **Karten & Spielsteine**: Ich spiele super gerne, ob digital oder am Tisch. Bonuspunkte, wenn du mir sagst, um welche Spiele es hier geht ;)
 * **Bücher** : Fantasy und SciFi gehen immer
