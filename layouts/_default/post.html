@@ -7,8 +7,9 @@
       <li class="list-inline-item mr-3 ml-0"><i class="ti-calendar"></i> {{ .PublishDate.Format "02 Jan, 2006" }}</li>
       <!-- author -->
       <li class="list-inline-item mr-3 ml-0"><i class="ti-user"></i> 
-        {{ range split .Params.Author "," }}
-          <a href="{{ `team/` | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>
+        {{ range split .Params.Author ", " }}
+          {{$post := path.Clean (index (where (where site.RegularPages "Type" "team") "Title" . ) 0).RelPermalink}}
+          <a href="{{$post}}">{{ . | title }}</a>
         {{ end }}
       </li>
     </ul>

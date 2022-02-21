@@ -89,8 +89,12 @@
           <h3 class="section-title">{{ i18n "blogs_by" }} {{ .Title }}</h3>
         </div>
       </div>
-      {{ $posts := where site.RegularPages "Type" "post" }}
-      {{ $posts := $posts | intersect (where $posts "Params.author" .Title )}}
+      {{$posts := slice}}
+      {{range where site.RegularPages "Type" "post"}}
+        {{if in ( split .Params.Author ", ") $.Title}}
+          {{$posts = $posts | append .}}
+        {{end}}
+      {{end}}
       {{ if lt (len $posts) 1 }}
       <div class="col-12 mb-5">
         <p>{{ .Title }} has not written a blog post yet...</p>
