@@ -5,13 +5,13 @@ categories = ["Data Engineering", "Data Science"]
 date = 2022-02-18T10:00:00Z
 description = ""
 image = "/images/blog/ProcessModelFigure.jpeg"
-tags = ["Machine Learning", "processes", "CI/CD", "CD4ML"]
+tags = ["Machine Learning", "processes", "CI/CD", "CD4ML", "MLOps"]
 title = "CRISP-DM, CD4ML or ModelOps: looking beyond just data"
 type = "post"
 
 +++
 
-## **Introduction**
+## Introduction
 
 We started our journey to become Data Scientists as PhD Students figuring out by
 ourselves what to do when confronted with a huge dump of data. Just like almost
@@ -62,28 +62,17 @@ for Data Mining (CRISP-DM)[^1]. It shows how data mining is applied in a product
 business context and describes a data life-cycle to get from business
 requirements to delivering a usable data model.
 
-![https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagram.png](/images/blog/CRISP-DM_Process_Diagram.png)
+![https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagram.png](/images/blog/CRISP-DM_Process_Diagram.png "The basic diagram of CRISP-DM")
 
 As we will see with many similar processes, CRISP-DM represented by a cycle
 consisting of six interlinked steps:
 
--   **Business Understanding:** Understand the question that is being asked and
-    how it affects the business side, so that answering it can contribute
-    something meaningful.
-
--   **Data Understanding:** Get an overview of the available data and evaluate
-    its usefulness for the task at hand.
-
--   **Data Preparation:** Transform the data to a format suitable for the next
-    steps.
-
--   **Modeling:** From the transformed data derive models using statistical or
-    analytical methods which are helpful in the business context.
-
--   **Evaluation:** Do the models actually provide an answer to the initial
-    question?
-
--   **Deployment:** Put the models into production and available for business.
+- **Business Understanding:** Understand the question that is being asked and how it affects the business side, so that answering it can contribute something meaningful.
+- **Data Understanding:** Get an overview of the available data and evaluate its usefulness for the task at hand.
+- **Data Preparation:** Transform the data to a format suitable for the next steps.
+- **Modeling:** From the transformed data derive models using statistical or analytical methods which are helpful in the business context.
+- **Evaluation:** Do the models actually provide an answer to the initial question?
+- **Deployment:** Put the models into production and available for business.
 
 The cycle of CRISP-DM is described at a high level with no specification to e.g.
 data size, time frame or technical deployment. In its simplest form, CRISP-DM
@@ -100,17 +89,15 @@ different scales of a business to deliver actionable results.
 Common feedback mechanisms are provided within CRISP-DM and the process is not
 linear but rather contains loops to react to new insights. This includes:
 
--   A link between Business and Data Understanding. A clear understanding of the
+- A link between Business and Data Understanding. A clear understanding of the
     business case drives the data exploration, knowledge gained from exploration
     helps to refine the line of questioning required to extract value from
     possible results.
-
--   A strong coupling between the Data preparation and Modeling steps. It is a
+- A strong coupling between the Data preparation and Modeling steps. It is a
     common theme that after the initial data preparation a first model candidate
     can be chosen, which then leads to new parts in the preparation, e.g.
     engineering of certain features.
-
--   On a broader scale, the Evaluation of a model candidate might lead to
+- On a broader scale, the Evaluation of a model candidate might lead to
     changes in the Business Understanding which affects all the steps in
     between.
 
@@ -128,17 +115,15 @@ in these short development cycles. Here, Continuous Integration (CI) and
 Continuous Delivery (CD) as well as Continuous Deployment stand out as advanced
 standard practices.
 
--   With CI, we put our code under version control and push it regularly to a
+- With CI, we put our code under version control and push it regularly to a
     common remote repository where artifacts are built and tested automatically
     with each push. This circumvents possible issues when trying to integrate
     code changes in the productive environment.
-
--   When CD is used in a project not only are artifacts built but also deployed
+- When CD is used in a project not only are artifacts built but also deployed
     in so-called test and staging environments where the product can be
     thoroughly tested in close-to-productive environments before releasing it to
     the actual production environment.
-
--   An extension of Continuous Delivery is Continuous Deployment, where changes
+- An extension of Continuous Delivery is Continuous Deployment, where changes
     are automatically integrated and tested through all stages and put into
     production when no errors arise.
 
@@ -151,74 +136,66 @@ answer this question we will look at a few models (hey, this word can also mean
 “general process description”, not only “neural network architecture”) that have
 been proposed in recent years.
 
-**CRISP-ML(Q)**
+> **CRISP-ML(Q)**
+> 
+> In 2019, [experiences around the Mercedes-Benz AG Research](https://www.mdpi.com/2504-4990/3/2/20) culminated in
+> a proposed *CRoss-Industry Standard Process model for the development of Machine
+> Learning applications with Quality assurance methodology CRISP-ML(Q)* - catchy!
+> 
+> The authors saw the need for industrial organizations to have reliable standards
+> in place for process handling and quality assurance in ML projects. This process
+> model uses mostly the same key steps as CRISP-DM, with the following changes:
+> 
+> - **Business and Data understanding** are combined into a single phase, emphasizing the strong link between the business requirements and the available data at hand which is already noted in the original.  
+> - **Monitoring & Maintenance** is added as an additional step at the end and consists of all the ongoing work after the first deployment of a model into production, i.e. monitoring model performance to account for distribution shift and using new data for re-training the model.  
+> - **Quality assurance** is emphasized *for every step* of the project: for every step the stakeholder should define requirements and constraints, identify risks, and follow a defined workflow to decide if those are feasible, can be mitigated or if the step has to be reiterated completely.
+> 
+> While those steps and the quality gates are still formulated in a “waterfall”
+> like process, the authors emphasize that this is always an iterative process and
+> individual steps or sequences of steps will have to be repeated based on later
+> results.
 
-In 2019, [experiences around the Mercedes-Benz AG Research](https://www.mdpi.com/2504-4990/3/2/20) culminated in
-a proposed *CRoss-Industry Standard Process model for the development of Machine
-Learning applications with Quality assurance methodology CRISP-ML(Q)* - catchy!
-
-The authors saw the need for industrial organizations to have reliable standards
-in place for process handling and quality assurance in ML projects. This process
-model uses mostly the same key steps as CRISP-DM, with the following changes:
-
-- **Business and Data understanding** are combined into a single phase,
-emphasizing the strong link between the business requirements and the available
-data at hand which is already noted in the original.  
-- **Monitoring & Maintenance** is added as an additional step at the end and
-consists of all the ongoing work after the first deployment of a model into
-production, i.e. monitoring model performance to account for distribution shift
-and using new data for re-training the model.  
-- **Quality assurance** is emphasized *for every step* of the project: for every
-step the stakeholder should define requirements and constraints, identify risks,
-and follow a defined workflow to decide if those are feasible, can be mitigated
-or if the step has to be reiterated completely.
-
-While those steps and the quality gates are still formulated in a “waterfall”
-like process, the authors emphasize that this is always an iterative process and
-individual steps or sequences of steps will have to be repeated based on later
-results.
-
-![https://arxiv.org/pdf/2003.05155.pdf](/images/blog/crisp-ml_q.png)
+![https://arxiv.org/pdf/2003.05155.pdf](/images/blog/crisp-ml_q.png "The quality assurance flowchart in CRISP-ML(Q)")
 
 CRISP-ML(Q)[^2] introduces a focus on Quality Assurance and hints that the work with
 modern Data Science models is not over as soon as they are deployed, but
 otherwise it is not a big jump from CRISP-DM.
 
-**TDSP** 
-
-Microsoft presented the
-[Team Data Science Process](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/overview)
-in 2016. It is strongly based on CRISP-DM, and the project lifecycle is defined
-in the major phases **Business Understanding** &rarr; **Data Acquisition and
-Understanding** &rarr; **Modeling** &rarr; **Deployment** &rarr; **Customer Acceptance,**
-where each of the phases can be iterated when required. A perspective unique to
-TDSP is that work in a DS project is structured around the different roles
-present in a team (e.g. Project Lead, Data Scientist, Solutions Architect, …)
-and a clear distribution of tasks and responsibilities.
+> **TDSP** 
+> 
+> Microsoft presented the
+> [Team Data Science Process](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/overview)
+> in 2016. It is strongly based on CRISP-DM, and the project lifecycle is defined
+> in the major phases **Business Understanding** &rarr; **Data Acquisition and
+> Understanding** &rarr; **Modeling** &rarr; **Deployment** &rarr; **Customer Acceptance,**
+> where each of the phases can be iterated when required. A perspective unique to
+> TDSP is that work in a DS project is structured around the different roles
+> present in a team (e.g. Project Lead, Data Scientist, Solutions Architect, …)
+> and a clear distribution of tasks and responsibilities.
 
 So there is no big surprise in TDSP. Let’s maybe look at a few different
 perspectives, that have caught quite a lot of traction in the community:
 
-**MLOps**
-
-In 2014 Google began [publishing](https://research.google/pubs/pub43146/)
-their experience that they saw ML Systems quickly becoming overwhelmed by
-technical debt: the large amount of code necessary for everything that is not
-actually the ML model (like data handling, resource management, automation and
-much more) required more and more effort and could quickly slow down to halt the
-innovation on the actual ML part.
-[MLOps](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
-was proposed as a way to tackle those problems, automating more and more
-necessary steps in the process, akin to tried and tested DevOps practices.
-
-They measure the MLOps maturity of a project in three general phases: *MLOps
-level 0, 1* or *2* measure the amount of automatization to push data
-transformations, model training and a final model to production. This range
-starts at a completely manual process based on scripts and notebooks, with rare
-(and technically complicated) deployments of models for predictions (*level 0*).
-The goal is to first automate the pipeline for model training and deployment
-(*level 1*), and then to automate the process to change and experiment with this
-pipeline (*level 2*).
+> **MLOps**
+> 
+> In 2014 Google began [publishing](https://research.google/pubs/pub43146/)
+> their experience that they saw ML Systems quickly becoming overwhelmed by
+> technical debt: the large amount of code necessary for everything that is not
+> actually the ML model (like data handling, resource management, automation and
+> much more) required more and more effort and could quickly slow down to halt the
+> innovation on the actual ML part.
+> [MLOps](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+> was proposed as a way to tackle those problems, automating more and more
+> necessary steps in the process, akin to tried and tested DevOps practices.
+> 
+> They measure the MLOps maturity of a project in three general phases: *MLOps
+> level 0, 1* or *2* measure the amount of automatization to push data
+> transformations, model training and a final model to production. This range
+> starts at a completely manual process based on scripts and notebooks, with rare
+> (and technically complicated) deployments of models for predictions (*level 0*).
+> The goal is to first automate the pipeline for model training and deployment
+> (*level 1*), and then to automate the process to change and experiment with this
+> pipeline (*level 2*).
 
 MLOps is less of a process model and more an outline for *what should be the
 technical goal of a Data Science Project* in an enterprise setting. And while
@@ -233,29 +210,28 @@ on this topic, with
 [providers](https://neptune.ai/blog/mlops)
 offering technical solutions for specific parts of this problem.
 
-**CD4ML**
-
-Thoughtworks started to frame Data Science engineering practices under the term
-[CD4ML](https://martinfowler.com/articles/cd4ml.html) around 2017, and the
-concept behind those is so valuable, there is already an
-[in-depth description of CD4ML](https://dataworkz.de/blog/cd4ml-ability-to-reproduce/) on this blog.
-
-The primary insight is that applying the tried-and-true CI/CD approaches to ML
-problems unlocks large additional values. When the relevant integrations are in
-place, ML projects take advantage of the safe (because small and tested)
-increments and frequent feedback through frequent releases which made CI/CD so
-powerful in the first place. The reason that it is not obvious to put those
-integrations in place is that CD4ML comes with quite some challenges compared to
-traditional software development:
-
-\- Data Science Teams are usually much more cross-functional than classical
-software dev teams, so CD4ML practices need to align the different perspectives
-/ tools / workflows.
-
-\- A functioning CD process requires that all of **Code**, **Models**, and
-**Data** are in some form version controlled, since changes in each of those
-components can change the outcome of the final service (and therefore should
-trigger the CD pipeline).
+> **CD4ML**
+>
+> Thoughtworks started to frame Data Science engineering practices under the term
+> [CD4ML](https://martinfowler.com/articles/cd4ml.html) around 2017, and the
+> concept behind those is so valuable, there is already an
+> [in-depth description of CD4ML](https://dataworkz.de/blog/cd4ml-ability-to-reproduce/) on this blog.
+>
+> The primary insight is that applying the tried-and-true CI/CD approaches to ML
+> problems unlocks large additional values. When the relevant integrations are in
+> place, ML projects take advantage of the safe (because small and tested)
+> increments and frequent feedback through frequent releases which made CI/CD so
+> powerful in the first place. The reason that it is not obvious to put those
+> integrations in place is that CD4ML comes with quite some challenges compared to
+> traditional software development:
+> 
+> - Data Science Teams are usually much more cross-functional than classical
+> software dev teams, so CD4ML practices need to align the different perspectives
+> / tools / workflows.
+> - A functioning CD process requires that all of **Code**, **Models**, and
+> **Data** are in some form version controlled, since changes in each of those
+> components can change the outcome of the final service (and therefore should
+> trigger the CD pipeline).
 
 CD4ML highlights the actual work that needs to be done, and describes *detailed
 practices on how to develop in a Data Science Project.* It sees itself as a
@@ -265,18 +241,18 @@ important steps to go from a business requirement to a valuable data product.
 And to go from this very local perspective to a much larger one, let’s include
 ModelOps as well.
 
-**ModelOps**
-
-The community is still in the process of aligning on a single description of
-ModelOps, a term that stems out of [IBM
-research](https://researcher.watson.ibm.com/researcher/files/us-lmandel/plday18-hummer.pdf)
-in 2018, but it mostly centers around technical management of the models coming
-out of Data Science projects. ModelOps is framed as the capability of big
-companies to govern the many different models (not only ML) that are used and
-manage their life cycle. Therefore features like CI/CD integration (or basically
-the full MLOps processes) are an important part, but the main focus is on
-managing the operational models with monitoring, A/B testing, re-training,
-deployment and rollbacks from a central perspective.
+> **ModelOps**
+> 
+> The community is still in the process of aligning on a single description of
+> ModelOps, a term that stems out of [IBM
+> research](https://researcher.watson.ibm.com/researcher/files/us-lmandel/plday18-hummer.pdf)
+> in 2018, but it mostly centers around technical management of the models coming
+> out of Data Science projects. ModelOps is framed as the capability of big
+> companies to govern the many different models (not only ML) that are used and
+> manage their life cycle. Therefore features like CI/CD integration (or basically
+> the full MLOps processes) are an important part, but the main focus is on
+> managing the operational models with monitoring, A/B testing, re-training,
+> deployment and rollbacks from a central perspective.
 
 While ModelOps is concerned mostly with practices and capabilities of higher
 management in large enterprises, it is based on the realization of ModelOps (and
@@ -302,7 +278,7 @@ better invested working on the many other parts of a successful project.
 
 ### **Data Science projects run in common phases**
 
-![](/images/blog/ProcessModelFigure.jpeg)
+![](/images/blog/ProcessModelFigure.jpeg "A visualization of our internal process model")
 
 We have looked at a range of different views on Data Science projects, with
 perspectives on the work of an individual Data Scientist, the management of data
@@ -317,8 +293,6 @@ different projects or considering how to improve on our current task we find it
 extremely helpful to abstract back to this perspective and think where we are on
 the circle and what we want to achieve in the next steps.
 
-## 
-
 ## Finally
 
 For us, having an overview of these models really helps to make it clear where
@@ -329,12 +303,12 @@ easier to realize when it might be best to switch from working on model training
 to e.g. reconsider the data we use in the project. And it allows us to keep the
 connected tasks in mind when we decide on tools and architectures.
 
-What does it mean for Jupyter? There are companies (e.g. Netflix, Uber?) that
-use dominantly notebooks for Data Science projects in production. But the Data
-tool landscape is much larger and for each task and situation there are plenty
+What does it mean for Jupyter? There are companies  that use dominantly notebooks
+for Data Science projects in production (e.g. Netflix has [an elaborate setup](https://netflixtechblog.com/notebook-innovation-591ee3221233)).
+But the Data tool landscape is much larger and for each task and situation there are plenty
 of tools to choose from. This poses the question: how to make this choice, and
 what is the best fit?. More on this coming up next.
 
-[^1]: https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagram.png
+[^1]: image for CRISP-DM from https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagram.png
 
-[^2]: https://arxiv.org/pdf/2003.05155.pdf
+[^2]: image for the QA workflow from https://www.mdpi.com/2504-4990/3/2/20
