@@ -15,4 +15,4 @@ weight: 1
 focus: "workshop"
 ---
 
-Von den ersten Schritten in Python bis zur Erstellung deiner ersten Deep Learning Projekte. Mit unserem Kurs nehmen wir deine Mitarbeiter* mit in die neue und spannende Welt von Data Science und Machine Learning.
+Von den ersten Schritten in Python bis zur Erstellung deiner ersten Deep Learning Projekte. Mit unserem Kurs nehmen wir deine Mitarbeiter*innen mit in die neue und spannende Welt von Data Science und Machine Learning.
