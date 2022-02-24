@@ -7,4 +7,7 @@ description: ''
 ---
 ## Timeline Dataworkz
 
-Alles begann im Winter 2016 mit einem ersten Telefonat und einem Abendessen mit den derzeitigen Gesellschaftern. Schnell war die Idee geboren, einen coolen technischen Datenklub zu gründen. Daten werden im täglichen (Arbeits-)Leben immer wichtiger. Von der Idee bis zum Start war es eine ziemlich hektische Zeit, aber für uns war es immer wichtig, die Mitarbeiter in den Mittelpunkt des Unternehmens zu stellen. Sich mit seinen Leuten zu verbinden und coole Dinge für Kunden zu tun, das ist der Kern von Dataworkz.
+Alles begann in den Niederlanden im Winter 2016 mit einem ersten Telefonat und einem Abendessen unter den derzeitigen Gesellschaftern. 
+Mit einem Hintergrund in großen Beratungsfirmen wollten wir ein großartiges, hochgeradig technisches Team auf die Beine stellen, und unsere Mitarbeiter ins Zentrum zu stellen.
+Gegenseitig im engen Austausch zu bleiben und gleichzeitig coole Lösungen für unsere Kunden zu schaffen, das ist das Herz von Dataworkz.
+Neugierig wie wir hier angekommen sind?
