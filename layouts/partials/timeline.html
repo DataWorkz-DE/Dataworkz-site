@@ -3,7 +3,7 @@
 <section class="timeline">
   <div class="container">
     {{ $.Scratch.Set "counter" 0 }}
-    {{ range (where site.RegularPages "Type" "timeline").Reverse }}
+    {{ range (where site.RegularPages "Type" "timeline") }}
       {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
       {{ $i := $.Scratch.Get "counter" }}
       
