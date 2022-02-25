@@ -6,97 +6,180 @@ paginate = "6"
 summaryLength = "10"
 theme = "educenter"
 title = "Dataworkz.de | Specialist in data science & data engineering"
-# defaultContentLanguage = 'de'
-[Languages.en]
+defaultContentLanguage = 'de'
+[languages]
+[languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2022 by [kokkelaar](https://kokkelaar.nl)"
 home = "Home"
 languageCode = "en-En"
 languageName = "En"
 weight = 2
-[Languages.de]
+[languages.en.menu]
+[[languages.en.menu.company]]
+URL = "insights"
+name = "Insights"
+weight = 1
+[[languages.en.menu.company]]
+URL = "about"
+name = "About"
+weight = 3
+[[languages.en.menu.company]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[[languages.en.menu.company]]
+URL = "impressum"
+name = "Impressum"
+weight = 7
+[[languages.en.menu.footer]]
+URL = "team"
+name = "Team"
+[[languages.en.menu.footer]]
+URL = "event"
+name = "Events"
+[[languages.en.menu.footer]]
+URL = "career"
+name = "Career"
+[[languages.en.menu.footer]]
+URL = "blog"
+name = "Blog"
+[[languages.en.menu.main]]
+footerDisplay = false
+hasChildren = true
+name = "Solutions"
+weight = 1
+[[languages.en.menu.main]]
+URL = "solutions#data-oplossingen"
+name = "Quick wins"
+parent = "Solutions"
+[[languages.en.menu.main]]
+URL = "solutions#data-consulting"
+name = "Consulting"
+parent = "Solutions"
+[[languages.en.menu.main]]
+URL = "solutions#data-workshop"
+name = "Workshops"
+parent = "Solutions"
+[[languages.en.menu.main]]
+footerDisplay = true
+name = "Insights"
+weight = 2
+[[languages.en.menu.main]]
+URL = "event"
+name = "Events"
+parent = "Insights"
+[[languages.en.menu.main]]
+URL = "blog"
+name = "Blogs"
+parent = "Insights"
+[[languages.en.menu.main]]
+footerDisplay = true
+name = "about"
+weight = 4
+[[languages.en.menu.main]]
+URL = "team"
+name = "Team"
+parent = "about"
+[[languages.en.menu.main]]
+URL = "career"
+name = "Career"
+parent = "about"
+[[languages.en.menu.main]]
+parent = "about"
+name = "About us"
+URL = "about"
+[[languages.en.menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[languages.de]
 contentDir = "content/deutsch"
 copyright = "Copyright &copy; 2022 by [kokkelaar](https://kokkelaar.nl)"
 home = "Home"
 languageCode = "de-DE"
 languageName = "De"
 weight = 1
-[[menu.company]]
+[languages.de.menu]
+[[languages.de.menu.company]]
 URL = "insights"
-name = "Insights"
+name = "Einblicke"
 weight = 1
-[[menu.company]]
+[[languages.de.menu.company]]
 URL = "about"
-name = "About"
+name = "Über uns"
 weight = 3
-[[menu.company]]
+[[languages.de.menu.company]]
 URL = "contact"
-name = "Contact"
+name = "Kontakt"
 weight = 5
-[[menu.company]]
+[[languages.de.menu.company]]
 URL = "impressum"
 name = "Impressum"
 weight = 7
-[[menu.footer]]
+[[languages.de.menu.footer]]
 URL = "team"
 name = "Team"
-[[menu.footer]]
+[[languages.de.menu.footer]]
 URL = "event"
 name = "Events"
-[[menu.footer]]
+[[languages.de.menu.footer]]
 URL = "career"
-name = "Career"
-[[menu.footer]]
+name = "Karriere"
+[[languages.de.menu.footer]]
 URL = "blog"
 name = "Blog"
-[[menu.main]]
+[[languages.de.menu.main]]
 footerDisplay = false
 hasChildren = true
 name = "Solutions"
 weight = 1
-[[menu.main]]
+[[languages.de.menu.main]]
 URL = "solutions#data-oplossingen"
 name = "Quick wins"
 parent = "Solutions"
-[[menu.main]]
+[[languages.de.menu.main]]
 URL = "solutions#data-consulting"
 name = "Consulting"
 parent = "Solutions"
-[[menu.main]]
+[[languages.de.menu.main]]
 URL = "solutions#data-workshop"
 name = "Workshops"
 parent = "Solutions"
-[[menu.main]]
+[[languages.de.menu.main]]
 footerDisplay = true
-name = "Insights"
+name = "Einblicke"
 weight = 2
-[[menu.main]]
+[[languages.de.menu.main]]
 URL = "event"
 name = "Events"
-parent = "Insights"
-[[menu.main]]
+parent = "Einblicke"
+[[languages.de.menu.main]]
 URL = "blog"
-name = "Blogs"
-parent = "Insights"
-[[menu.main]]
+name = "Blog"
+parent = "Einblicke"
+[[languages.de.menu.main]]
 footerDisplay = true
-name = "about"
+name = "Über uns"
 weight = 4
-[[menu.main]]
+[[languages.de.menu.main]]
 URL = "team"
 name = "Team"
-parent = "about"
-[[menu.main]]
+parent = "Über uns"
+weight = 1
+[[languages.de.menu.main]]
 URL = "career"
-name = "Career"
-parent = "about"
-[[menu.main]]
-parent = "about"
-name = "About us"
+name = "Karriere"
+parent = "Über uns"
+weight = 2
+[[languages.de.menu.main]]
+parent = "Über uns"
+name = "Mehr über uns"
 URL = "about"
-[[menu.main]]
+weight = 3
+[[languages.de.menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Kontakt"
 weight = 5
 [[module.mounts]]
 lang = "de"

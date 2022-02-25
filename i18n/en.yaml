@@ -126,3 +126,7 @@
   translation: Your subject
 - id: contact_message
   translation: Your message
+- id: no_workshop
+  translation: has not given a workshop yet...
+- id: no_blog
+  translation: has not written a blog post yet...
