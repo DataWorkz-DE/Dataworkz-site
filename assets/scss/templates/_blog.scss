@@ -1,0 +1,55 @@
+.blog-md {
+    * {
+      margin-bottom: 20px;
+    }
+
+    a {
+        text-decoration: underline;
+    }
+
+    ol {
+      padding-left: 20px;
+      list-style-type: decimal;
+      line-height: 1.2;
+    }
+
+    ul {
+      padding-left: 0;
+      line-height: 1.2;
+
+      li {
+        position: relative;
+        padding-left: 20px;
+        margin-bottom: 10px;
+        list-style-type: none;
+
+        &::before {
+          position: absolute;
+          content: "\e65d";
+          font-family: $icon-font;
+          font-size: 14px;
+          left: 0;
+          top: 1px;
+          color: $primary-color;
+          transition: .3s ease;
+        }
+      }
+    }
+
+    blockquote {
+        border-left: 0.25em solid $border-color;
+        padding: 0 1em;
+        color: $text-color-light;
+
+        p {
+          margin-bottom: 10px;
+          color: $text-color-light;
+          font-style: italic !important;
+        }
+
+        ul, ol {
+          color: $text-color-light;
+          font-style: italic !important;
+        }
+    }
+}
