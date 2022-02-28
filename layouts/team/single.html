@@ -91,7 +91,7 @@
       </div>
       {{$posts := slice}}
       {{range where site.RegularPages "Type" "post"}}
-        {{if in ( split .Params.Author ", ") $.Title}}
+        {{if in (apply ( split .Params.Author ",") "trim" "." " ") $.Title}}
           {{$posts = $posts | append .}}
         {{end}}
       {{end}}

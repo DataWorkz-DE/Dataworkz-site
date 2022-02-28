@@ -8,7 +8,7 @@
       <!-- author -->
       <li class="list-inline-item mr-3 ml-0"><i class="ti-user"></i> 
         {{ range split .Params.Author ", " }}
-          {{$post := (index (where (where site.RegularPages "Type" "team") "Title" . ) 0).RelPermalink}}
+          {{$post := (index (where (where site.RegularPages "Type" "team") "Title" (trim . " ") ) 0).RelPermalink}}
           <a href="{{$post}}">{{ . | title }}</a>
         {{ end }}
       </li>

@@ -14,7 +14,7 @@
               <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light">
                 <span class="font-weight-bold mr-2">{{ i18n "posted_by" }}:</span>
                 {{ range split .Params.Author ", " }}
-                  {{$post := (index (where (where site.RegularPages "Type" "team") "Title" . ) 0).RelPermalink}}
+                  {{$post := (index (where (where site.RegularPages "Type" "team") "Title" (trim . " ") ) 0).RelPermalink}}
                   <a href="{{$post}}">{{ . | title }}</a>
                 {{ end }}
                 </li>
