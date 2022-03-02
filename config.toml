@@ -17,21 +17,17 @@ languageName = "En"
 weight = 2
 [languages.en.menu]
 [[languages.en.menu.company]]
-URL = "insights"
-name = "Insights"
-weight = 1
-[[languages.en.menu.company]]
 URL = "about"
 name = "About"
-weight = 3
+weight = 1
 [[languages.en.menu.company]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = 2
 [[languages.en.menu.company]]
 URL = "impressum"
 name = "Impressum"
-weight = 7
+weight = 3
 [[languages.en.menu.footer]]
 URL = "team"
 name = "Team"
@@ -101,10 +97,6 @@ languageCode = "de-DE"
 languageName = "De"
 weight = 1
 [languages.de.menu]
-[[languages.de.menu.company]]
-URL = "insights"
-name = "Einblicke"
-weight = 1
 [[languages.de.menu.company]]
 URL = "about"
 name = "Über uns"
