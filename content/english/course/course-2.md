@@ -7,7 +7,7 @@ image: "/images/intro-to-ds-banner.jpg"
 category: Data
 teacher: Martin
 duration: ''
-apply_url: "/contact"
+apply_url: "/en/contact"
 
 ---
 From the first steps in Python to creating your first deep learning projects. With our course, we take your employees into the new and exciting world of Data Science and Machine Learning. 

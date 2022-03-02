@@ -7,7 +7,7 @@ image: "/images/azure-certification-path-2020-cropped.png"
 category: Data
 teacher: Maarten van Duren, Tjan Lam
 duration: ''
-apply_url: "/contact"
+apply_url: "/en/contact"
 
 ---
 Our Microsoft certified trainers take you into the Microsoft world of AI and ML. From Azure fundamentals to AI solutions - with our 9 courses, you'll be ready for any important certification on your way to becoming a certified **Azure Data Scientist Associate,** **Azure Data Engineer Associate**, **Azure AI Engineer Associate** of **Azure Architect Expert**.
