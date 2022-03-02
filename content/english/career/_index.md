@@ -1,38 +1,14 @@
 ---
 title: Working at Dataworkz
-bg_image: images/backgrounds/page-title.jpg
+bg_image: images/career/bground.jpg
 image: images/career/hero.jpg
 description: ''
-draft: true
+layout: career-jobs
+title1: "You are our next Data Engineer, Data Scientist or Machine Learning Engineer because:"
+title2: "How?"
+list1: ["You as a consultant want to work on a project that suits your ambition, with a client that responds to your experience and the possibility to move on when you are ready for the next project.","You seek an environment where continuous learning is paramount: with code camps in a beach house, global conferences and working on open-source projects.","You are looking for colleagues who inspire you. And with whom you would also like to have a beer, ski, visit conferences or go out for an evening."]
+list2: ["You like to be able to talk about technology with your colleagues with the option to regularly participate in the Mario Kart competition in the office.","You believe that the terms of employment should match what you are worth. And that obviously includes a phone and laptop of your own choice, but especially an extensive training package.","And if you pull out all the Pokemons here, we'll get you a local beer : Python, Java, Golang, R, Spark, Scala, Flink, Adabas, Kafka, pandas, numpy, tensorflow, pytorch, keras, jirachi, Seahorse, Databricks, Azure DevOps, Sagemaker, Hekaton, Big Query, Geodude, Dash, R-Shiny, Yolo, OpenCV, Snowflake, Glue, Azurill, Athena. Airflow, Kubernetes, Terraform, Arvados, Ambari, Ariados"]
 
 ---
-## DATAWORKERZ
 
-We are a trusted partner for Data Engineering and Data Science for well-known companies who are leaders in their respective industries. We are passionate professionals who want to help companies with their innovating projects.  
-At Dataworkz, you will work with driven data engineers who wants to make a difference with the projects they are working on. We are strong communicators and we like to share our knowledge; but above all, we take work hard, play hard very seriously!  
-
-Sounds interesting? 
-
-## Is this you? 
-
-Working as a Data Engineer, you will be responsible for setting up and maintaining data landscapes and to make the contents of these landscapes available. You will be working with shareholders to create scalable, reliable and flexible solutions that are easy to work with. We certainly won’t expect you the bring ALL parts of the following skill-set. Your future fellow engineers all have their strengths. That’s what makes Dataworkz a great place to work and learn. It would however be great if you bring some of the following skills:  
-
-* Solid programming skills like Python, Golang, Java or Scala.   
-* Creating data and machine learning pipelines.
-* Developing scalable and high-performance cloud solutions like OpenShift, Azure, AWS, GCP, or Kubernetes.
-* Configuring and developing on premise and cloud-based CI/CD solution (Jenkins, Gitlab, TFS, Azure DevOps, MLFlow) 
-* Knowledge of big data processing (Spark, Kafka) and flow development (Airflow, Nifi) 
-* Search engine experience (ElasticSearch) 
-* Knowledge of big data storage (like HDFS, Hive, HBASE, Cassandra, MongoDB, Neo4J, FlockDB) and the appropriate techniques (SQL, Graph, Document) 
-* Familiarity with Machine Learning techniques 
-* Knowledge of modern Datawarehouse solutions (Snowflake, AWS Redshift) 
-
-## We offer
-
-* A challenging career with a young growing company  
-* Innovating projects where you can show off your skills and learn new ones
-* Personal and technical growth through internal and external training/certificates 
-* An inspiring culture where own initiative is valued and rewarded (and kind of is requested) 
-* An extensive team of international data rock stars where it is all about collaboration, quality and having fun
-* Team events, both technical and just for fun. We love to bring the families!  
-* An attractive salary, significant bonus agreement (it's all about the team) and great benefits
+We look forward to telling you more about Dataworkz, Big Data and want to hear even more about what you are really looking for in a company: Send your CV or your LinkedIn profile to [info@dataworkz.de](mailto:info@dataworkz.de). We will contact you the same day. We will invite you for an introduction in which we will have a chat about whether Dataworkz suits you. If that is the case, you will meet two of our engineers. This is mainly about technical inspiration. Will we both go home with new ideas? In that case, changes are high that we are going to have a lot of fun together!

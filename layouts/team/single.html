@@ -66,8 +66,7 @@
 
       {{ if lt (len $workshops) 1 }}
       <div class="col-12 mb-5">
-        <p>{{ .Title }} has not given a workshop yet...</p>
-        <!-- TODO: Adapt language or template -->
+        <p>{{ .Title }} {{ i18n "no_workshop" }}</p>
       </div>
       {{ else }}
       {{ range $workshops }}
@@ -97,8 +96,7 @@
       {{end}}
       {{ if lt (len $posts) 1 }}
       <div class="col-12 mb-5">
-        <p>{{ .Title }} has not written a blog post yet...</p>
-        <!-- TODO: Adapt language or template -->
+        <p>{{ .Title }} {{ i18n "no_blog" }}</p>
       </div>
       {{ else }}
       {{ range $posts }}

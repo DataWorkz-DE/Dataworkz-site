@@ -2,7 +2,7 @@
   translation: Mehr erfahren
 
 - id: contact_form
-  translation: Kontakt Formular
+  translation: Kontaktformular
 
 - id: send
   translation: Nachricht senden
@@ -50,7 +50,7 @@
   translation: Kategorie
 
 - id: related_course
-  translation: Verwanter Kurs
+  translation: Verwandter Kurs
 
 - id: duration
   translation: Dauer
@@ -65,7 +65,7 @@
   translation: Dozent
 
 - id: location
-  translation: Lokation
+  translation: Ort
 
 - id: entry_fee
   translation: Kosten
@@ -86,7 +86,7 @@
   translation: E-Mail eingeben
 
 - id: company
-  translation: Company
+  translation: Unternehmen
 
 - id: links
   translation: Links
@@ -126,3 +126,7 @@
   translation: Dein Betreff
 - id: contact_message
   translation: Deine Nachricht
+- id: no_workshop
+  translation: hat noch keinen Workshop gegeben...
+- id: no_blog
+  translation: hat noch keinen Blogartikel geschrieben...

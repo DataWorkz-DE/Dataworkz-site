@@ -25,7 +25,7 @@ banner_feature:
     button:
       enable: true
       label: more info
-      link: "/solutions#data-oplossingen"
+      link: "/solutions#data-quickwin"
   - name: Data workshops and training
     icon: ti-blackboard
     content: From the first steps in Python to creating your first deep learning projects. 

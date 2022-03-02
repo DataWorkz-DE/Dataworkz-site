@@ -1,5 +1,5 @@
 +++
-author = "Mischa Ungermann, Philip Diessner"
+author = "Mischa Ungermann, Philip Dießner"
 bg_image = ""
 categories = ["Data Engineering", "Data Science"]
 date = 2022-02-18T10:00:00Z

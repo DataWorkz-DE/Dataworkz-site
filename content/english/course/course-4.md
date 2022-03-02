@@ -7,7 +7,7 @@ image: "/images/banners-website.jpg"
 category: Data
 teacher: Martin
 duration: ''
-apply_url: "/contact"
+apply_url: "/en/contact"
 
 ---
 Many data streams lead to Rome. But which one suits you best? Together, we determine the right data architecture for your data flows and draw up a roadmap, with which you can start working immediately. 

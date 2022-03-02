@@ -11,7 +11,7 @@ slider:
     animation_out: ''
     button:
       enable: true
-      label: Nimm kontakt mit uns auf
+      label: Nimm Kontakt mit uns auf
       link: contact
 banner_feature:
   enable: true
@@ -21,11 +21,11 @@ banner_feature:
     icon: ti-book
     content: Wir haben einige Quick Wins für technische Probleme innerhalb der Datenwelt entwickelt.
       Erkennst du diese Herausforderungen? Wir können dir helfen, diese Herausforderung mit einem 
-      konkreten Ergebniss innerhalb von etwa 2 Wochen zu lösen. 
+      konkreten Ergebnis innerhalb von etwa 2 Wochen zu lösen. 
     button:
       enable: true
       label: Mehr erfahren
-      link: "/solutions#data-oplossingen"
+      link: "/solutions#data-quickwin"
   - name: Data Workshops und Trainings
     icon: ti-blackboard
     content: Von den ersten Schritten in Python bis zur Erstellung deiner ersten Deep Learning 

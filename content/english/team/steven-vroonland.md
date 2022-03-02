@@ -7,7 +7,7 @@ course: "Data engineer"
 description: ""
 image: "/images/img_5218.JPG"
 interest: ["engineering"]
-title: "Thijs Koot"
+title: "Steven Vroonland"
 
 ---
 
