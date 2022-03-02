@@ -132,20 +132,23 @@ name = "Blog"
 [[languages.de.menu.main]]
 footerDisplay = false
 hasChildren = true
-name = "Solutions"
+name = "Lösungen"
 weight = 1
 [[languages.de.menu.main]]
 URL = "solutions#data-quickwin"
 name = "Quick wins"
-parent = "Solutions"
+parent = "Lösungen"
+weight = 1
 [[languages.de.menu.main]]
 URL = "solutions#data-consulting"
 name = "Consulting"
-parent = "Solutions"
+parent = "Lösungen"
+weight = 2
 [[languages.de.menu.main]]
 URL = "solutions#data-workshop"
 name = "Workshops"
-parent = "Solutions"
+parent = "Lösungen"
+weight = 3
 [[languages.de.menu.main]]
 footerDisplay = true
 name = "Einblicke"
