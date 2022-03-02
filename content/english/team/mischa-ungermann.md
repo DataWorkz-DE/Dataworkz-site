@@ -22,7 +22,7 @@ type: "team"
 
 - **Coffee Maker** Coffee is life. And delicious!
 - **Controller** A hobby I rediscovered during a global pandemic: Wow, there are great video games around!
-- **Notebook** Even though you can't grep dead trees, nothing helps sorting your thoughts than writing things on paper.
+- **Notebook** Even though you can't grep dead trees, nothing helps sorting your thoughts like writing things on paper.
 - **Glass from Hesse** I really like living in the north, but still I miss sometimes the many great things about the region where I grew up: Forests, hills, or refreshing apple wine.
 - **Woolen Socks** There should be more warm and comfy clothes in the world!
 - **Cat toy** I live with two cats who you might get to know if you ever invite me to a video meeting.

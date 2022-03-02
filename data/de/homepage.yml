@@ -4,9 +4,8 @@ slider:
   bg_image: images/banner/banner-1.jpg
   slider_item:
   - title: Kundenspezifische Datenlösungen
-    content: Seit 4 Jahren bietet Dataworkz hochkarätige Beratung im Bereich Daten für verschiedene Kunden
-      in den Niederlanden. Jetzt ist die Zeit gekommen, all dieses Wissen nach Deutschland zu
-      bringen! Lass dir von unseren High-End Data Engineers und Data Scientists helfen das 
+    content: Seit 5 Jahren bietet Dataworkz hochkarätige Beratung im Bereich Daten für verschiedene Kunden
+      in Deutschland und den Niederlanden. Lass dir von unseren High-End Data Engineers und Data Scientists helfen das 
       Beste aus deinen Daten herauszuholen!
     animation_in: ''
     animation_out: ''
@@ -30,7 +29,7 @@ banner_feature:
   - name: Data Workshops und Trainings
     icon: ti-blackboard
     content: Von den ersten Schritten in Python bis zur Erstellung deiner ersten Deep Learning 
-      Projekte. Mit unserem Kurs nehmen wir deine Mitarbeiter mit in die neue und spannende Welt
+      Projekte. Mit unserem Kurs nehmen wir deine Mitarbeiterinnen mit in die neue und spannende Welt
       von Data Science und Machine Learning.
     button:
       enable: true
@@ -39,7 +38,7 @@ banner_feature:
   - name: Data Consultancy
     icon: ti-agenda
     content: Egal ob es sich um kurz- oder langfristige Projekte handelt, mit jedem einzelnen Berater
-       kannst du auf das Wissen aller Dataworkz Ingenieure zugreifen, um hochmoderne Datenplattformen 
+       kannst du auf das Wissen aller Dataworkz Ingenieurinnen zugreifen, um hochmoderne Datenplattformen 
        oder Machine Learning Anwendungen zu entwickeln.
     button:
       enable: true
@@ -49,12 +48,9 @@ about:
   enable: true
   title: Über Dataworkz
   image: images/about/about-us.jpg
-  content: Alles begann im Winter 2016 mit einem ersten Telefonat und einem Abendessen
-    mit den derzeitigen Gesellschaftern. Schnell war die Idee geboren, einen coolen technischen 
-    Datenklub zu gründen. Daten werden im täglichen (Arbeits-)Leben immer wichtiger. Von der Idee 
-    bis zum Start war es eine ziemlich hektische Zeit, aber für uns war es immer wichtig, unsere 
-    Mitarbeiter in den Mittelpunkt des Unternehmens zu stellen. Sich mit seinen Leuten zu verbinden
-    und coole Dinge für Kunden zu tun, das ist der Kern von Dataworkz.
+  content: Alles begann in den Niederlanden im Winter 2016 mit einem ersten Telefonat und einem Abendessen unter den derzeitigen Gesellschaftern. 
+    Mit einem Hintergrund in großen Beratungsfirmen wollten wir ein großartiges, hochgeradig technisches Team auf die Beine stellen, und unsere Mitarbeiter ins Zentrum zu stellen.
+    Gegenseitig im engen Austausch zu bleiben und gleichzeitig coole Lösungen für unsere Kunden zu schaffen, das ist das Herz von Dataworkz.
   button:
     enable: true
     label: Mehr über Dataworkz erfahren?
@@ -82,10 +78,10 @@ success_story:
   enable: true
   bg_image: images/backgrounds/success-story.jpg
   title: Hast du Bock bei uns zu arbeiten?
-  content: Wir suchen leidenschaftliche Datenenthusiasten (Engineering und Science), die bei  
+  content: Wir suchen leidenschaftliche Datenenthusiastinnen (Engineering und Science), die bei  
     unseren Kunden den Unterschied ausmachen. Professionals, die Spaß daran haben, 
     Chancen in einem jungen Unternehmen zu ergreifen und die gerne mit Kollegen 
-    zusammenarbeiten, um Datenlösungen zu schaffen. Spezialisten, die Teil eines Teams von Experten sein wollen 
+    zusammenarbeiten, um Datenlösungen zu schaffen. Spezialisten, die Teil eines Teams von Expertinnen sein wollen 
     und Spaß daran haben, Wissen zu teilen und die für ihren Wert belohnt werden wollen.
   video_link: https://www.youtube.com/watch?v=IdV4n4hgIRY
   button:

@@ -11,9 +11,9 @@ focus: solutions
 
 Unser Ansatz stellt sicher, dass Unternehmen Datenverschmutzung an der Quelle, der Datenpipeline, verhindern.
 
-**Wir bauen automatisierte Tests in deine Datenpipeline ein, um zu verhindern, dass verschmutzte Daten Auswirkungen auf dein Geschäft haben. **
+**Wir bauen automatisierte Tests in deine Datenpipeline ein, um zu verhindern, dass verschmutzte Daten Auswirkungen auf dein Geschäft haben.**
 
-In ca. 2 Wochen werden wir, mit Unterstützung deines Domainspezialisten:
+In ca. 2 Wochen werden wir, mit Unterstützung deiner Domainspezialisten:
 
 * Ein automatisiertes Datentest-Framework innerhalb deiner bestehenden Datenpipeline einbauen
 * Eine Datenpipeline komplett mit automatisierten Tests programmieren
