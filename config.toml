@@ -50,7 +50,7 @@ hasChildren = true
 name = "Solutions"
 weight = 1
 [[languages.en.menu.main]]
-URL = "solutions#data-oplossingen"
+URL = "solutions#data-quickwin"
 name = "Quick wins"
 parent = "Solutions"
 [[languages.en.menu.main]]
@@ -119,7 +119,7 @@ name = "Impressum"
 weight = 7
 [[languages.de.menu.footer]]
 URL = "team"
-name = "Team"
+name = "Unser Team"
 [[languages.de.menu.footer]]
 URL = "event"
 name = "Events"
@@ -135,7 +135,7 @@ hasChildren = true
 name = "Solutions"
 weight = 1
 [[languages.de.menu.main]]
-URL = "solutions#data-oplossingen"
+URL = "solutions#data-quickwin"
 name = "Quick wins"
 parent = "Solutions"
 [[languages.de.menu.main]]
@@ -164,7 +164,7 @@ name = "Über uns"
 weight = 4
 [[languages.de.menu.main]]
 URL = "team"
-name = "Team"
+name = "Unser Team"
 parent = "Über uns"
 weight = 1
 [[languages.de.menu.main]]
