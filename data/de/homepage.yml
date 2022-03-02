@@ -48,12 +48,9 @@ about:
   enable: true
   title: Über Dataworkz
   image: images/about/about-us.jpg
-  content: Alles begann im Winter 2016 mit einem ersten Telefonat und einem Abendessen
-    mit den derzeitigen Gesellschaftern. Schnell war die Idee geboren, einen coolen technischen 
-    Datenklub zu gründen. Daten werden im täglichen (Arbeits-)Leben immer wichtiger. Von der Idee 
-    bis zum Start war es eine ziemlich hektische Zeit, aber für uns war es immer wichtig, unsere 
-    Mitarbeiter in den Mittelpunkt des Unternehmens zu stellen. Sich mit seinen Leuten zu verbinden
-    und coole Dinge für Kunden zu tun, das ist der Kern von Dataworkz.
+  content: Alles begann in den Niederlanden im Winter 2016 mit einem ersten Telefonat und einem Abendessen unter den derzeitigen Gesellschaftern. 
+    Mit einem Hintergrund in großen Beratungsfirmen wollten wir ein großartiges, hochgeradig technisches Team auf die Beine stellen, und unsere Mitarbeiter ins Zentrum zu stellen.
+    Gegenseitig im engen Austausch zu bleiben und gleichzeitig coole Lösungen für unsere Kunden zu schaffen, das ist das Herz von Dataworkz.
   button:
     enable: true
     label: Mehr über Dataworkz erfahren?
@@ -84,7 +81,7 @@ success_story:
   content: Wir suchen leidenschaftliche Datenenthusiastinnen (Engineering und Science), die bei  
     unseren Kunden den Unterschied ausmachen. Professionals, die Spaß daran haben, 
     Chancen in einem jungen Unternehmen zu ergreifen und die gerne mit Kollegen 
-    zusammenarbeiten, um Datenlösungen zu schaffen. Spezialist\*innen, die Teil eines Teams von Expert\*innen sein wollen 
+    zusammenarbeiten, um Datenlösungen zu schaffen. Spezialisten, die Teil eines Teams von Expertinnen sein wollen 
     und Spaß daran haben, Wissen zu teilen und die für ihren Wert belohnt werden wollen.
   video_link: https://www.youtube.com/watch?v=IdV4n4hgIRY
   button:
