@@ -10,7 +10,7 @@ duration: ''
 apply_url: "/contact"
 
 ---
-Unsere Microsoft zertifizierten Trainer nehmen dich mit in die Microsoft Welt der KI und ML. Von Azure-Grundlagen bis hin zu KI-Lösungen - mit unseren 9 Kursen bist du bereit für jede wichtige Zertifizierung auf deinem Weg zum zertifizierten **Azure Data Scientist Associate**, **Azure Data Engineer Associate**, **Azure AI Engineer Associate** oder **Azure Solutions Architect Expert**.
+Unsere Microsoft zertifizierten Trainer nehmen dich mit in die Microsoft Welt der KI und ML. Von Azure-Grundlagen bis hin zu KI-Lösungen und Datenplattformen - mit unseren 11 Kursen bist du bereit für jede wichtige Zertifizierung auf deinem Weg zum zertifizierten **Azure Data Scientist Associate**, **Azure Data Engineer Associate**, **Azure AI Engineer Associate** oder **Azure Solutions Architect Expert**.
 
 ### **Microsoft Azure Fundamentals: 1 or 2 day training**
 

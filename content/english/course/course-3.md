@@ -10,7 +10,7 @@ duration: ''
 apply_url: "/en/contact"
 
 ---
-Our Microsoft certified trainers take you into the Microsoft world of AI and ML. From Azure fundamentals to AI solutions - with our 9 courses, you'll be ready for any important certification on your way to becoming a certified **Azure Data Scientist Associate,** **Azure Data Engineer Associate**, **Azure AI Engineer Associate** or **Azure Solutions Architect Expert**.
+Our Microsoft certified trainers take you into the Microsoft world of AI and ML. From Azure fundamentals to AI solutions and data platforms - with our 11 courses, you'll be ready for every important certification on your way to becoming a certified **Azure Data Scientist Associate,** **Azure Data Engineer Associate**, **Azure AI Engineer Associate** or **Azure Solutions Architect Expert**.
 
 ### **Microsoft Azure Fundamentals: 1 or 2 day training**
 
