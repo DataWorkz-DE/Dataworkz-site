@@ -3,14 +3,14 @@ title: Become a Microsoft Certified Azure expert
 date: 2019-07-06T15:27:17.000+06:00
 bg_image: images/backgrounds/page-title.jpg
 description: ''
-image: "/images/azure-certification-path-2020-cropped.png"
+image: "/images/microsoft_certified_badges_1110_500.png"
 category: Data
-teacher: Maarten van Duren, Tjan Lam
+teacher: Maarten van Duren
 duration: ''
 apply_url: "/en/contact"
 
 ---
-Our Microsoft certified trainers take you into the Microsoft world of AI and ML. From Azure fundamentals to AI solutions - with our 9 courses, you'll be ready for any important certification on your way to becoming a certified **Azure Data Scientist Associate,** **Azure Data Engineer Associate**, **Azure AI Engineer Associate** of **Azure Architect Expert**.
+Our Microsoft certified trainers take you into the Microsoft world of AI and ML. From Azure fundamentals to AI solutions - with our 9 courses, you'll be ready for any important certification on your way to becoming a certified **Azure Data Scientist Associate,** **Azure Data Engineer Associate**, **Azure AI Engineer Associate** or **Azure Solutions Architect Expert**.
 
 ### **Microsoft Azure Fundamentals: 1 or 2 day training**
 
@@ -43,16 +43,16 @@ This course is an opportunity to gain knowledge of common ML and AI workloads an
 * Conversational AI
 * For AI Engineers, ML Engineers, Data Scientists, general audience
 
-### **Designing and Implementing an Azure Data Science Solution : 3 days**
+### **Designing and Implementing a Data Science solution on Azure : 3 days**
 
 #### _prepares for Microsoft DP-100 Certificate : Azure Data Scientist Associate_
 
 Students gain knowledge of data science and machine learning and how to implement and run machine learning workloads on Azure; in particular, using Azure Machine Learning Service. This entails planning and creating a suitable working environment for data science workloads on Azure, running data experiments and training predictive models, managing and optimizing models, and deploying machine learning models into production.
 
-* Inleiding tot Azure Machine Learning
-* "No-code" Machine Learning met Designer
-* Experimenten en trainingsmodellen uitvoeren
-* Werken met gegevens
+* Introduction to Azure Machine Learning
+* "No-code" Machine Learning with Designer
+* Experiments and training models
+* Work with data
 * Compute Contexts
 * Orchestrating Operations with Pipelines
 * Deploying and Consuming Models
@@ -61,7 +61,7 @@ Students gain knowledge of data science and machine learning and how to implemen
 * Monitoring Models
 * For everyone with prerequisites: Programming skills, Azure Fundamentals knowledge
 
-### **Ontwerpen en implementeren van een Azure AI-oplossing: 5 dagen**
+### **Designing and Implementing a Microsoft Azure AI solution : 4 days**
 
 #### _prepares for Microsoft AI-102 Certificate : Azure AI Engineer Associate_
 
@@ -113,36 +113,92 @@ Students also learn about networking, virtualization, identity, security, busine
 * Design business continuity
 * Design migration, integration, and disaster recovery
 * For everyone with prerequisites: Azure developers, experienced with application development on Azure, seeking to become a solutions architect
+### **Designing Microsoft Azure Infrastructure Solutions : 4 days**
 
-### **Implementing** **an Azure Data Solution:** **3** **days**
+#### _prepares for Microsoft AZ-305 Exam : Design Microsoft Azure Infrastructure Solutions_
 
-#### _prepares for the Microsoft_ _DP-200_ _Exam : Azure Data Engineer_ _Associate_
+Students for this course gain subject matter expertise in designing and implementing solutions on Microsoft Azure. Aspects include concepts like compute, networking, data storage, data integration, app architectures, monitoring, security, networking, and migration solutions.
 
-In this course, the students will implement various data platform technologies into solutions that are in line with business and technical requirements including on-premises, cloud, and hybrid data scenarios incorporating both relational and No-SQL data. They will also learn how to process data using a range of technologies and languages for both streaming and batch data.
+Students learn how to fulfil the responsibilities for an Azure Solutions Architect including advising stakeholders, translate business requirements into technical cloud solutions, and designing secure, scalable, and reliable cloud solutions.
 
-The students will also explore how to implement data security including authentication, authorization, data policies and standards. They will also define and implement data solution monitoring for both the data storage and data processing activities. Finally, they will manage and troubleshoot Azure data solutions which includes the optimization and disaster recovery of big data, batch processing and stream- ing data solutions.
+Students also learn about virtualization, identity and access management, security, business continuity, disaster recovery, data platform, budgeting, and governance. In addition, students learn how these aspects can impact the solution. Lastly, students learn how to use their Azure administration skills, as well as Azure development and DevOps processes knowledge.
+
+* Design a governance solution in Azure
+* Work with management groups, subscriptions, resource groups and resources
+* Work with policies, tags, and blueprints
+* Design the most common Azure solutions including VMs, Batch, Functions, Logic Apps, Container Instances, App Services and Kubernetes Service
+* Design data storage and data integration solutions
+* Work with storage solutions, from files to databases, and streaming event
+* Work with data integration solutions including Data Factory, Data Lake, Azure Databricks, and Azure Synapse Analytics
+* Design app architectures
+* Design event-driven architectures with Azure services
+* Design identity and access management solutions
+* Design monitoring solutions including Azure Monitor, Log Analytics, and more
+* Design network architectures in Azure
+* Design business continuity solution with backup and recovery services and scenarios
+* Design migration solutions
+* For everyone with prerequisites: Azure developers or administrators, experienced with application development on Azure, seeking to become a solutions architect
+
+### **Data Engineering on Microsoft Azure: 4 days**
+
+#### _prepares for the Microsoft DP-203 Exam : Azure Data Engineer Associate_
+
+In this course, the students will implement various data platform technologies into solutions that are in line with business and technical requirements including on-premises, cloud, and hybrid data scenarios incorporating both relational, No-SQL data, and data warehouse data. They will also learn how to process data using a range of technologies and languages for both streaming and batch data.
+
+The students will also explore how to implement data security including authentication, authorization, data policies and standards. They will also define and implement data solution monitoring for both the data storage and data processing activities. Finally, they will manage and troubleshoot Azure data solutions which includes the optimization and disaster recovery of big data, batch processing and streaming data solutions.
 
 * Introduction Azure for the Data Engineer
+* Introduction to Azure Synapse Analytics and Azure Databricks
+* Introduction to Data Lake architecture
 * Working with Data Storage
-* Enabling Team Based Data Science with Azure Databricks
-* Building Globally Distributed Data- base with Azure Cosmos DB
-* Working with Relational Data Stores in the cloud
-* Performing Real-Time Analytics with Stream Analytics
-* Orchestrating Data Movement with Azure Data Factory
-* Securing Azure Data Platforms
-* Monitoring and Troubleshooting Data Storage and processing
+* Working with compute options
+* Run interactive queries with serverless SQL pools in Azure Synapse
+* Secure data and manage users in Azure Synapse
+* Working with data in Azure Databricks
+* Extracting, transforming, and loading data into a Data Warehouse with Apache Spark
+* Ingesting and loading data into the Synapse Data Warehouse
+* Transforming data with Azure Data Factory
+* Integrating notebooks with Azure Data Factory or Azure Synapse Analytics
+* End-to-end security with Azure Synapse Analytics
+* Hybrid Transactional Analytical Processing (HTAP) between Cosmos DB and Azure Synapse Analytics
+* Processing real-time streaming data with Stream Analytics
+* Stream processing solutions with Event Hubs and Azure Databricks
 
-### **Designing** **an Azure Data Solution:** **2** **days**
+### **Migrate NoSQL workloads to Azure Cosmos DB : 1 day**
 
-#### _prepares for Microsoft_ _DP-201_ _Exam : Azure Data Engineer_ _Associate_
+#### _complements the Azure Data Scientist Associate role_
 
-In this course, the students will design various data platform technologies into solutions that are in line with business and technical requirements. This can include on-premises, cloud, and hybrid data scenarios which incorporate relational, No-SQL or Data Warehouse data. They will also learn how to design process architectures using a range of technologies for both streaming and batch data.
+Students get an introduction into Cosmos DB and its APIs. Students will gain knowledge on migration considerations and best practices. Next, students will learn how to migrate MongoDB workloads to Cosmos DB, including planning, data migration and application migration. The same holds for migrating Cassandra workloads to Cosmos DB.
 
-The students will also explore how to design data security including data access, data policies and standards. They will also design Azure data solutions which includes the optimization, availability and disaster recovery of big data, batch processing and streaming data solutions.
+* Introduction to Cosmos DB
+* Introduction to Cosmos DB migrations
+* Migrate MongoDB workloads to Cosmos DB
+* Migrate Cassandra workloads to Cosmos DB
+* For everyone with prerequisites: Data engineering skills and fundamental Azure knowledge
 
-* Architecture Considerations
-* Azure Batch Processing Reference Architectures
-* Azure Real-Time Reference Architectures
-* Security Design Considerations
-* Designing for Scale and Resiliency
-* Design for Efficiency and Operations
+### **Migrate Open Source Data Workloads to Azure : 1 day**
+
+#### _complements the Azure Data Scientist Associate role_
+
+Students get an introduction into Azure database services for MySQL and PostgreSQL. Students will gain knowledge on migration considerations and best practices. Next, students will learn how to migrate MySQL workloads to Azure. Next topic is migrating PostgreSQL workloads to Azure. Next, students learn how to protect the data in Azure, how to setup monitoring of Azure services and how to tune the database services. Finally, students learn how to migrate Redis Cache workloads to Azure.
+
+* Introduction to open source database migrations to Azure
+* Migrate MySQL workloads to Azure
+* Migrate PostgreSQL workloads to Azure
+* Protecting data
+* Monitoring database services
+* Tuning databases
+* Migrate Redis Cache workloads to Azure
+* For everyone with prerequisites: Data engineering skills and fundamental Azure knowledge
+
+### **Implementing a Machine Learning Solution with Microsoft Azure Databricks : 1 day**
+
+#### _complements the Azure Data Scientist Associate role_
+
+Students for this course will learn how to use Azure Databricks for machine learning workloads in the cloud. Students will work through the material and hands-on exercises in this course, and will build on their existing data science and machine learning knowledge and learn how to leverage cloud services to perform machine learning at scale.
+
+* Create an Azure Databricks workspace, and manage compute, data, and coding environments for machine learning workloads
+* Prepare data and train a machine learning model using Spark ML
+* Track model details and register models with MLflow
+* Run Azure Machine Learning experiments on Azure Databricks and deploy trained models onto Azure Kubernetes Service and Azure Container Instances using Azure Machine Learning
+* For everyone with prerequisites: Data engineers, data scientists, and machine learning engineers, who know the concepts of machine learning and would like to use the scalability of the cloud and bring machine learning models into production.
