@@ -23,11 +23,15 @@ weight = 1
 [[languages.en.menu.company]]
 URL = "contact"
 name = "Contact"
-weight = 2
+weight = 3
 [[languages.en.menu.company]]
 URL = "impressum"
 name = "Impressum"
-weight = 3
+weight = 8
+[[languages.en.menu.company]]
+URL = "privacy"
+name = "Privacy"
+weight = 6
 [[languages.en.menu.footer]]
 URL = "team"
 name = "Team"
@@ -109,6 +113,10 @@ weight = 5
 URL = "impressum"
 name = "Impressum"
 weight = 7
+[[languages.de.menu.company]]
+URL = "privacy"
+name = "Datenschutzerklärung"
+weight = 6
 [[languages.de.menu.footer]]
 URL = "team"
 name = "Unser Team"
@@ -263,3 +271,17 @@ title = "github"
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/company/dataworkz-gmbh/"
 title = "linkedin"
+# Nothing is used anyway, just to be verbose
+[privacy]
+[privacy.disqus]
+disable = true
+[privacy.googleAnalytics]
+disable = true
+[privacy.instagram]
+disable = true
+[privacy.twitter]
+disable = true
+[privacy.vimeo]
+disable = true
+[privacy.youtube]
+disable = true
