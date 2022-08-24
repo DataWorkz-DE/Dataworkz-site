@@ -4,7 +4,7 @@ name: Deploy Hugo site to Pages, fix pathing
 on:
   # Runs on pushes targeting the default branch and this branch
   push:
-    branches: ["fix-abs-path"]
+    branches: ["master", "fix-abs-paths"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
