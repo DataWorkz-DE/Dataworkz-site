@@ -20,10 +20,10 @@
             </div>
 
             <div class="col-xs-12 col-sm-6">
-                <img src="/images/magic.svg" width="100%" height="200px" />
+                <img src="{{ `images/magic.svg` | relURL }}" width="100%" height="200px" />
             </div>
             <div class="col-xs-12 col-sm-6 pt-5">
-                <img src="/images/pika.svg" width="100%" height="200px" />
+                <img src="{{ `images/pika.svg` | relURL }}" width="100%" height="200px" />
             </div>
 
             <div class="col-xs-12 col-sm-6 content">
@@ -35,7 +35,7 @@
             </div>
         </div>
         <div class="row justify-content-center py-4">
-            <img src="/images/cloud.svg" width="100%" />
+            <img src="{{ `images/cloud.svg` | relURL }}" width="100%" />
         </div>
         <div class="row">
             <div class="col-xs-12 col-sm-6 content">
@@ -43,7 +43,7 @@
                 <p>{{ .Content }}</p>
             </div>
             <div class="col-xs-12 col-sm-6">
-                <img class="rellax" data-rellax-speed="-1" src="/images/science.svg" width="100%" height="300px" />
+                <img class="rellax" data-rellax-speed="-1" src="{{ `images/science.svg` | relURL }}" width="100%" height="300px" />
             </div>
         </div>
     </div>
