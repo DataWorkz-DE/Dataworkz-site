@@ -3,10 +3,8 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Custom made data solutions
-    content: For the last 5 years, Dataworkz has been providing top notch data consultancy for various clients
-      in Germany and the Netherlands.
-      Let our high end data engineers and data scientists help you to get the most out of your data!
+  - title: <span class="text-primary">We Make Data Work</span>
+    content: We specialize in unleashing the power of data, leveraging Infra-as-Code and cloud technologies, to drive actionable insights and enable organizations to make informed decisions with confidence.
     animation_in: ''
     animation_out: ''
     button:
@@ -37,10 +35,7 @@ banner_feature:
       link: "/solutions#data-workshop"
   - name: Data consultancy
     icon: ti-agenda
-    content: Do you need short term support on your data projects? Looking to add knowledge or looking to
-      temporary adding someone to your team? Whether it’s short- or long-term projects, with
-      every single consultant you will be able to access the knowledge of all Dataworkz engineers to
-      develop state of the art data platforms or machine learning applications. 
+    content: Whether you need know-how or short-term support to scale up your team, our engineers are ready to help. And with over 70 engineers within the ecosystem, there is always someone with the answer to your question.
     button:
       enable: true
       label: more info
