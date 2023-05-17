@@ -3,10 +3,8 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Kundenspezifische Datenlösungen
-    content: Seit 5 Jahren bietet Dataworkz hochkarätige Beratung im Bereich Daten für verschiedene Kunden
-      in Deutschland und den Niederlanden. Lass dir von unseren High-End Data Engineers und Data Scientists helfen das 
-      Beste aus deinen Daten herauszuholen!
+  - title: <span class="text-primary">We Make Data Work</span>
+    content: Wir sind darauf spezialisiert, das volle Potenzial von Daten zu nutzen, indem wir Infrastruktur als Code und Cloud-Technologien einsetzen. Dadurch schaffen wir Praxisnahe Erkenntnisse und ermöglichen es Unternehmen, fundierte Entscheidungen mit Zuversicht zu treffen.
     animation_in: ''
     animation_out: ''
     button:
@@ -37,9 +35,7 @@ banner_feature:
       link: "/solutions#data-workshop"
   - name: Data Consultancy
     icon: ti-agenda
-    content: Egal ob es sich um kurz- oder langfristige Projekte handelt, mit jedem einzelnen Berater
-       kannst du auf das Wissen aller Dataworkz Ingenieurinnen zugreifen, um hochmoderne Datenplattformen 
-       oder Machine Learning Anwendungen zu entwickeln.
+    content: Egal, ob du Know-how oder kurzfristige Unterstützung bei der Erweiterung deines Teams brauchst, unsere Ingenieure sind bereit zu helfen. Und mit über 70 Ingenieuren innerhalb des Ökosystems gibt es immer jemanden, der eine Antwort auf deine Frage hat.
     button:
       enable: true
       label: Mehr erfahren
