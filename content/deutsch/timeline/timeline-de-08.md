@@ -11,7 +11,7 @@ image: "/images/timeline/blipz-2023.jpeg"
 
 ---
 
-Blipz on the Radar 2023! Bigger and better!. Neuer Ort und mehr 
+Blipz on the Radar 2023! Bigger and better! Neuer Ort und mehr 
 Content und Sprecher. Aber mit dem gleichen Technikorientierten Ansatz! Tech 
 Konferenzen sollten um Technik gehen, nicht um Marketing. Sehen wir uns 
 nächstes Jahr?
