@@ -5,7 +5,7 @@ draft: false
 
 type: "timeline"
 
-date: "2024-01-05T00:00:00Z"
+date: "2024-02-20T00:00:00Z"
 
 image: "/images/timeline/office-2024.jpeg"
 
